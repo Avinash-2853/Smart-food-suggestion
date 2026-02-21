@@ -1,0 +1,8 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+COPY requirements.seeder.txt .
+RUN pip install --no-cache-dir -r requirements.seeder.txt
+
+CMD ["python", "/app/scripts/seed_data.py"]

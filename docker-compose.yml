@@ -1,0 +1,37 @@
+version: "3.8"
+
+services:
+  db:
+    image: postgis/postgis:15-3.3
+    container_name: sm_food_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: smart_food
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./scripts/init_schema.sql:/docker-entrypoint-initdb.d/init_schema.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d smart_food"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  seeder:
+    build:
+      context: .
+      dockerfile: Dockerfile.seeder
+    container_name: sm_food_seeder
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./data:/app/seed-data
+      - ./scripts:/app/scripts
+    environment:
+      DATABASE_URL: postgresql://postgres:password@db:5432/smart_food
+
+volumes:
+  pgdata:
