@@ -3,6 +3,7 @@ from app.state import AgentState
 from app.database import db_manager
 from app.core.constants import MENU_COLLECTION, EMBEDDING_MODEL
 from app.core.logger import logger
+import time
 
 # Initialize model once
 model = SentenceTransformer(EMBEDDING_MODEL)
@@ -11,6 +12,7 @@ async def search_rag_node(state: AgentState):
     """
     Hybrid search node: SQL pre-filtering + Vector similarity search.
     """
+    start_time = time.time()
     profile = state["user_profile"]
     logger.info(f"🔍 Searching for items matching profile: {profile}")
     
@@ -29,7 +31,8 @@ async def search_rag_node(state: AgentState):
     for hit in search_results:
         suggestions.append(hit.payload)
     
-    logger.info(f"✅ Found {len(suggestions)} semantic matches.")
+    duration = time.time() - start_time
+    logger.info(f"✅ Found {len(suggestions)} semantic matches in {duration:.2f}s (included encoding).")
     
     # 3. (Optional) Enhance with SQL data if needed, but payload already has most info
     

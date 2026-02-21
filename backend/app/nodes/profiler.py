@@ -5,10 +5,13 @@ from app.ai.llm.gemini_client import gemini_client
 from app.ai.prompts.templates import PROFILER_SYSTEM_PROMPT
 from app.core.logger import logger
 
+import time
+
 async def user_profiler_node(state: AgentState):
     """
     Extracts structured constraints from the user query using Gemini.
     """
+    start_time = time.time()
     logger.info(f"🧠 Profiling user query: {state['user_query']}")
     
     llm = gemini_client.get_llm()
@@ -38,6 +41,9 @@ async def user_profiler_node(state: AgentState):
             "location": None,
             "search_query": state["user_query"]
         }
+
+    duration = time.time() - start_time
+    logger.info(f"✅ Profiling complete in {duration:.2f}s")
 
     return {
         "user_profile": profile,

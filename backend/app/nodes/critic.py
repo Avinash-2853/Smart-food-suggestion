@@ -4,11 +4,13 @@ from app.state import AgentState
 from app.ai.llm.gemini_client import gemini_client
 from app.ai.prompts.templates import CRITIC_SYSTEM_PROMPT
 from app.core.logger import logger
+import time
 
 async def qa_critic_node(state: AgentState):
     """
     Evaluates the current suggestions and menu draft against user constraints.
     """
+    start_time = time.time()
     logger.info("🧐 Evaluating menu quality...")
     
     llm = gemini_client.get_llm()
@@ -29,8 +31,10 @@ async def qa_critic_node(state: AgentState):
         # Expected output: JSON with "approved": bool and "feedback": str
         content = response.content.replace("```json", "").replace("```", "").strip()
         evaluation = json.loads(content)
-        logger.info(f"✅ Evaluation result: {evaluation}")
-    except:
+        duration = time.time() - start_time
+        logger.info(f"✅ Evaluation result: {evaluation} (took {duration:.2f}s)")
+    except Exception as e:
+        logger.error(f"❌ Error in critic parsing: {e}")
         evaluation = {"approved": True, "feedback": "Auto-approved due to parsing error."}
 
     return {
