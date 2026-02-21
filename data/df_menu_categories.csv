@@ -1,0 +1,1651 @@
+restaurant_id,name
+91db9574-51f5-4767-ad6e-88ec05dc167c,Drinks
+2bdf2d84-d67b-42e5-9002-cceb82aaea93,Boneless Wings
+c8dee513-3ec8-475b-8ca3-7c65eeb36782,LUNCH ENTRÉES
+e2e16bd5-fdcb-41b1-9b50-e76b4e5680ce,Cơm Dĩa (Steamed Rice Plates)
+e2e16bd5-fdcb-41b1-9b50-e76b4e5680ce,Bún (Vermicelli)
+9bc090f7-6aa7-45b0-8b35-6289021fdc2f,Over Rice
+9bc090f7-6aa7-45b0-8b35-6289021fdc2f,Sliders & Fries
+6a3f2902-d9fe-4f38-af4b-48c0c5b83e8c,Small Plates
+0a53f061-ab7d-47fd-b6e9-9d672831040c,Milkshakes
+0a53f061-ab7d-47fd-b6e9-9d672831040c,Fries
+67741de2-1895-4737-add6-e74ce64ad884,Fresh Juice
+67741de2-1895-4737-add6-e74ce64ad884,Smoothies
+088bec67-270b-46be-bc69-05e7435d4091,Sides
+088bec67-270b-46be-bc69-05e7435d4091,Drinks
+dfd02647-7393-4dcf-812e-31bcc425977e,Beef Pho
+0382237c-6348-4be3-917a-1911e448d6a4,The Burgers (1/2lb.)
+5d6e417c-35de-46d1-830b-0309cb1b22ab,Pho - Beef Noodle Soup
+5d6e417c-35de-46d1-830b-0309cb1b22ab,Noodles and Soup
+5d6e417c-35de-46d1-830b-0309cb1b22ab,Vermicelli Noodle Bowls
+5d6e417c-35de-46d1-830b-0309cb1b22ab,Rice Plates
+5d6e417c-35de-46d1-830b-0309cb1b22ab,Fried Rice
+5d6e417c-35de-46d1-830b-0309cb1b22ab,Vegetable & Tofu Dishes
+5d6e417c-35de-46d1-830b-0309cb1b22ab,Family Style
+5d6e417c-35de-46d1-830b-0309cb1b22ab,Stir-Fry Combinations
+5d6e417c-35de-46d1-830b-0309cb1b22ab,Sides & Extras
+5d6e417c-35de-46d1-830b-0309cb1b22ab,Smoothies
+5d6e417c-35de-46d1-830b-0309cb1b22ab,Beverages
+4c8851c7-daa2-4ad3-bd65-25bbff0bc1d0,Sandwiches
+4c8851c7-daa2-4ad3-bd65-25bbff0bc1d0,Sandwich As A Salad
+4c8851c7-daa2-4ad3-bd65-25bbff0bc1d0,Daily Specials
+3a761237-de4a-4ea3-a734-17f076d48525,House-Ground Burgers
+54ae7b7e-84f3-4c7e-9bda-de32d2b0d2a9,Sweets
+f9fbc7eb-f8df-4078-bd18-d07ee38b91b1,Starters
+757c11da-6f1d-4910-8cd5-4e966b9feabf,Desserts / Tatilar
+67c6fa02-ce32-457e-b154-08451d751e0a,Appetizers
+659421d8-118c-4277-8ade-6968fd43ae08,Lunch Appetizers
+659421d8-118c-4277-8ade-6968fd43ae08,Lunch Soup & Salad
+659421d8-118c-4277-8ade-6968fd43ae08,Lunch Chicken/Pork Combination
+659421d8-118c-4277-8ade-6968fd43ae08,Lunch Beef Combination
+659421d8-118c-4277-8ade-6968fd43ae08,Lunch Shrimp Combination
+659421d8-118c-4277-8ade-6968fd43ae08,Lunch Deluxe Daily Platter
+659421d8-118c-4277-8ade-6968fd43ae08,Lunch Veggies Combination
+27807126-f6a7-4c5c-9522-28e93e046bce,To Start 
+27807126-f6a7-4c5c-9522-28e93e046bce,Single Sides
+27807126-f6a7-4c5c-9522-28e93e046bce,Build Your Own Family Meal
+e1195eff-03e3-4878-b49b-2a378e5ea44c,Feast
+5eb1bca1-6dbf-4120-9b82-bab498de9696,Chicken and Ribs
+5eb1bca1-6dbf-4120-9b82-bab498de9696,Fresh Seafood
+f9932228-1be9-400f-b772-521fc49f64bd,Cookies & Brownies
+290b8f12-f9a0-4098-b9be-17475cc6b1e7,Bento Boxes
+290b8f12-f9a0-4098-b9be-17475cc6b1e7,Sushi Combos
+b5350fa7-bbc3-4143-af02-2efeb6435926,Sides
+b5350fa7-bbc3-4143-af02-2efeb6435926,Entrees
+b5350fa7-bbc3-4143-af02-2efeb6435926,Kids Menu
+b5350fa7-bbc3-4143-af02-2efeb6435926,Lite Bites
+b5350fa7-bbc3-4143-af02-2efeb6435926,Waffles
+b5350fa7-bbc3-4143-af02-2efeb6435926,Mo' Better Bites
+b5350fa7-bbc3-4143-af02-2efeb6435926,Starters
+b5350fa7-bbc3-4143-af02-2efeb6435926,S.C.N. Sides
+3393cfee-b8dd-46f7-b37c-43b7de33e9e9,Drinks
+d0c8affa-6774-433d-924a-88fb1febaa6f,The Appetizers
+d0c8affa-6774-433d-924a-88fb1febaa6f,The Burgers
+d0c8affa-6774-433d-924a-88fb1febaa6f,The Entrees
+d0c8affa-6774-433d-924a-88fb1febaa6f,Salads
+df11692a-231f-4ee9-ab82-d385b8f8a918,Dessert
+df11692a-231f-4ee9-ab82-d385b8f8a918,Special Menu
+df11692a-231f-4ee9-ab82-d385b8f8a918,Side Orders
+916e1d28-7849-4296-bf25-c36c91355669,Boiled Platters
+00b968f3-113a-4452-a36f-f47924a118d4,Munchies
+9f130eb8-28f5-423c-8c2b-f1f616337ffc,IHOPPY Hour
+1f546eaa-7520-417b-af9b-45c317d4da5f,Snacks
+144f77a1-bc03-44a8-937f-c5f5605af91d,Vegetarian 
+144f77a1-bc03-44a8-937f-c5f5605af91d,Kids' Menu
+38c3f434-7609-4d27-bbc4-bc954b55f085,Bento Box
+ae171c37-7f89-410b-a339-8d4a5011556e,Beer
+ae171c37-7f89-410b-a339-8d4a5011556e,Starter
+ae171c37-7f89-410b-a339-8d4a5011556e,Sushi & Sashimi
+ae171c37-7f89-410b-a339-8d4a5011556e,Special Rolls
+ae171c37-7f89-410b-a339-8d4a5011556e,Maki Rolls
+ae171c37-7f89-410b-a339-8d4a5011556e,House Specials
+ae171c37-7f89-410b-a339-8d4a5011556e,"Sushi, Sashimi, & Roll Combo"
+ae171c37-7f89-410b-a339-8d4a5011556e,Soup Salad
+ae171c37-7f89-410b-a339-8d4a5011556e,Fryer/Grilled
+ae171c37-7f89-410b-a339-8d4a5011556e,Rice/Noodle
+ae171c37-7f89-410b-a339-8d4a5011556e,Bento Box
+ae171c37-7f89-410b-a339-8d4a5011556e,Drinks
+ae171c37-7f89-410b-a339-8d4a5011556e,Hand Rolls
+ae171c37-7f89-410b-a339-8d4a5011556e,Sides
+10810082-0318-413c-b2cb-e54e78a06752,Noodles
+10810082-0318-413c-b2cb-e54e78a06752,Chef’s Specials
+77b9776e-ffd8-465d-b903-6573a036d672,Everyday Brunch
+77b9776e-ffd8-465d-b903-6573a036d672,New Snacks
+77b9776e-ffd8-465d-b903-6573a036d672,Sandwiches
+77b9776e-ffd8-465d-b903-6573a036d672,Soups/Sides
+44dab6ad-09f2-4396-b606-8a25f6bf7913,Damn Good Tacos
+44dab6ad-09f2-4396-b606-8a25f6bf7913,Not a Taco
+84710d08-fbf9-49a1-8bc1-b4bbcf9e9c61,Desserts
+84710d08-fbf9-49a1-8bc1-b4bbcf9e9c61,Breads
+54cf27cb-6478-45b7-9240-d9eeb5e2e2ed,A La Carte
+54cf27cb-6478-45b7-9240-d9eeb5e2e2ed,Add Ons
+83e04ce0-cf0c-468a-9df3-242356ea4052,Beef
+665d3fd9-1e5c-4ec1-ac77-ab00e73d1113,Beverages
+40a9c14f-de49-4be8-9b74-8704710639f5,Vegetable
+40a9c14f-de49-4be8-9b74-8704710639f5,Chicken (Pollo)
+d3e2d381-59eb-4020-aeca-7b35bf81992f,Snacks & Veggies
+d3e2d381-59eb-4020-aeca-7b35bf81992f,Desserts
+afb244c7-86d0-460a-a49b-92f607cbc782,Superfood Oats
+2c33f7ce-4a6b-4ee9-9913-bcf14fa154b0,Basic Hand Roll OR Cut Roll 
+acc20b7e-b41e-4490-9396-d77eff8ce221,Refresqueria
+e5a62d47-9b57-42d4-be58-f5fd53a22b51,Beef
+8bc26029-0e62-4e1a-bad0-a5b3a7044d75,Family Pack Section
+f49c86b0-11c6-412c-9434-fdb57ec41880,Sushi Roll
+f49c86b0-11c6-412c-9434-fdb57ec41880,Soft Drink
+9e34582b-97d5-4ccd-9886-ca297b848c35,Brunch For Lunch
+b63e4b3f-834d-41d9-ac03-fa239bedd7be,Sides
+b78c8fb8-b32a-4007-a0d6-337fdc7271f3,Drinks
+679f124f-5760-4217-bc99-a0a9989a9a2d,Sandwiches 3Pd
+ecdc7386-5b37-481a-9bf7-72ab88116d1d,Cupcakes
+f7f23ba1-7f41-465e-99e4-462e3d6e52a8,Beverages
+609528e3-0548-4423-8f3a-bdbcc67a0de8,Half Sandos
+479342fc-ba3d-4b5b-8a08-fd0be971ab93,Favorites And Pop Ups
+479342fc-ba3d-4b5b-8a08-fd0be971ab93,Click'S Scratch Made Desserts
+479342fc-ba3d-4b5b-8a08-fd0be971ab93,Paulie'S Cookies
+5570f889-7547-49c6-a809-8db85622a0a7,Bar Snacks
+5570f889-7547-49c6-a809-8db85622a0a7,Pizzette
+5570f889-7547-49c6-a809-8db85622a0a7,Salad
+5570f889-7547-49c6-a809-8db85622a0a7,Cheese and Charcuterie
+5570f889-7547-49c6-a809-8db85622a0a7,Petiscos
+9c69518d-0c85-459a-8249-1e7f0d02b0d4,Hot Teas
+9c69518d-0c85-459a-8249-1e7f0d02b0d4,Iced Teas
+9c69518d-0c85-459a-8249-1e7f0d02b0d4,Cold Drinks
+9c69518d-0c85-459a-8249-1e7f0d02b0d4,Hot Breakfast
+9c69518d-0c85-459a-8249-1e7f0d02b0d4,Bakery
+9c69518d-0c85-459a-8249-1e7f0d02b0d4,Hot Coffees
+9c69518d-0c85-459a-8249-1e7f0d02b0d4,Hot Drinks
+9c69518d-0c85-459a-8249-1e7f0d02b0d4,Frappuccino® Blended Beverages
+9c69518d-0c85-459a-8249-1e7f0d02b0d4,Cold Coffees
+9c69518d-0c85-459a-8249-1e7f0d02b0d4,Lunch
+9c69518d-0c85-459a-8249-1e7f0d02b0d4,Snacks & Sweets
+8f9b6f1b-3101-4510-90c9-a5274a3df0b8,Starters
+8f9b6f1b-3101-4510-90c9-a5274a3df0b8,Soup & Salads
+8f9b6f1b-3101-4510-90c9-a5274a3df0b8,The Nash Favorites
+8f9b6f1b-3101-4510-90c9-a5274a3df0b8,Handheld Classics
+8f9b6f1b-3101-4510-90c9-a5274a3df0b8,Pizza & Pasta
+8f9b6f1b-3101-4510-90c9-a5274a3df0b8,Steaks & Chops
+8f9b6f1b-3101-4510-90c9-a5274a3df0b8,Sides
+0ca69ece-38ad-4109-9302-48e9041fbe32,Desserts
+307ddb07-fda5-4b99-ba2f-264fc831eef1,Fresh Pastas
+307ddb07-fda5-4b99-ba2f-264fc831eef1,Sandwiches & Calzones
+074060f7-a1cc-4b0f-bcef-0bf9eb0213fb,Soups
+074060f7-a1cc-4b0f-bcef-0bf9eb0213fb,Salads
+074060f7-a1cc-4b0f-bcef-0bf9eb0213fb,Appetizer
+074060f7-a1cc-4b0f-bcef-0bf9eb0213fb,Rice Platters
+074060f7-a1cc-4b0f-bcef-0bf9eb0213fb,Stir-Fried Noodles
+074060f7-a1cc-4b0f-bcef-0bf9eb0213fb,Beef & Pork Wok Combos
+074060f7-a1cc-4b0f-bcef-0bf9eb0213fb,Chicken - Wok Combinations
+074060f7-a1cc-4b0f-bcef-0bf9eb0213fb,Shrimp - Wok Combinations
+074060f7-a1cc-4b0f-bcef-0bf9eb0213fb,Vegetarian - Wok Combinations
+074060f7-a1cc-4b0f-bcef-0bf9eb0213fb,V-Bowls Vermicelli
+06ba513c-15d1-4591-a31a-54d4df00ac81,Side Order
+a45593e9-2f36-4587-8c1f-68e964f800ee,Cookies
+f453d18d-f9d4-4593-a6ce-ba0921963e6c,Lunch Combo Meals
+f453d18d-f9d4-4593-a6ce-ba0921963e6c,Sandwiches
+f453d18d-f9d4-4593-a6ce-ba0921963e6c,Chef's Entrees
+27ace678-1701-4372-bda5-f46212c9533e,Quesos Flameados
+1fbb0be8-f722-4f20-9d99-702bc3fd6bb2,Build It Burritos and Bowls
+1fbb0be8-f722-4f20-9d99-702bc3fd6bb2,Fast Pack - 8 Packs
+1fbb0be8-f722-4f20-9d99-702bc3fd6bb2,Donut Holes & More
+1fbb0be8-f722-4f20-9d99-702bc3fd6bb2,Limited Time
+5fc29fd4-1e82-40aa-a5b6-490c42d172eb,Appetizers
+5fc29fd4-1e82-40aa-a5b6-490c42d172eb,Entrées
+1fbb0be8-f722-4f20-9d99-702bc3fd6bb2,Combo Meals
+1fbb0be8-f722-4f20-9d99-702bc3fd6bb2,Sauces & Salsas
+1fbb0be8-f722-4f20-9d99-702bc3fd6bb2,Amigos Items
+1fbb0be8-f722-4f20-9d99-702bc3fd6bb2,Kings Items
+1fbb0be8-f722-4f20-9d99-702bc3fd6bb2,Sides
+1fbb0be8-f722-4f20-9d99-702bc3fd6bb2,Kids’ Meals
+1fbb0be8-f722-4f20-9d99-702bc3fd6bb2,Fast N Frosty
+1fbb0be8-f722-4f20-9d99-702bc3fd6bb2,Drinks
+1fbb0be8-f722-4f20-9d99-702bc3fd6bb2,Kopeli Coffee
+1fbb0be8-f722-4f20-9d99-702bc3fd6bb2,Fast Pack - 8 Pack Grab & Go
+1fbb0be8-f722-4f20-9d99-702bc3fd6bb2,Breakfast Combo Meals
+1fbb0be8-f722-4f20-9d99-702bc3fd6bb2,Breakfast Items
+93a74d59-22b1-46bd-86c2-0194db5ad598,baked goods
+d2591b22-5483-4e43-a94c-25b865764b19,Thursday Plates
+d2591b22-5483-4e43-a94c-25b865764b19,Desserts
+ff06915c-f8a1-4e1c-ac57-d31ebb61689d,Lunch Combos
+6aa417fb-6045-47d1-a82f-d82ccd0bb6de,Signature Subs
+1e25b426-2225-486e-a086-59a6343aa2ac,Salads & Soups
+1e25b426-2225-486e-a086-59a6343aa2ac,Fresh Bakes
+9b693a22-7d43-4d4a-9e56-ef5221d7f1d0,Food Menu
+c3cb6a37-488e-4faa-a338-b1d940b21965,Insalate
+24b8027b-abab-4f2e-9d92-36d976c61d79,Cold Appetizers / xíao caì
+24b8027b-abab-4f2e-9d92-36d976c61d79,Soups / tāng lèi
+24b8027b-abab-4f2e-9d92-36d976c61d79,Rice and Noodles / fàn yú mìan lèi
+24b8027b-abab-4f2e-9d92-36d976c61d79,Vegetarian / caì leì
+24b8027b-abab-4f2e-9d92-36d976c61d79,Meats / ròu lèi
+24b8027b-abab-4f2e-9d92-36d976c61d79,Doughs / mìan shí
+24b8027b-abab-4f2e-9d92-36d976c61d79,Poultry
+24b8027b-abab-4f2e-9d92-36d976c61d79,Beef
+24b8027b-abab-4f2e-9d92-36d976c61d79,Pork
+24b8027b-abab-4f2e-9d92-36d976c61d79,Seafood
+24b8027b-abab-4f2e-9d92-36d976c61d79,Sweets / tìan dǐan
+f980a2ee-576f-4c4b-957c-24e7ce869d76,SOUPS & SALADS
+f980a2ee-576f-4c4b-957c-24e7ce869d76,ENTRÉE
+d50fccdd-024c-43e4-a801-e7c2abaadbbc,Fries
+72bb28e8-fce1-421d-8f5c-34bc77ee148b,Food
+f99a29c8-d267-4d20-b1bd-cfab45b90a21,Croissants
+f99a29c8-d267-4d20-b1bd-cfab45b90a21,Haus Favorites
+1e632518-ee30-4a71-b3d6-04b985580960,Breakfast Tacos
+1e632518-ee30-4a71-b3d6-04b985580960,Breakfast Sandwiches
+850eb42a-2275-4750-a184-131ad92c5443,Breads
+850eb42a-2275-4750-a184-131ad92c5443,Cookies
+850eb42a-2275-4750-a184-131ad92c5443,Sweet Pastries
+dd933a25-24ad-4652-acbd-6b54ea0c4649,Lunch
+850eb42a-2275-4750-a184-131ad92c5443,Savory Pastries
+dd933a25-24ad-4652-acbd-6b54ea0c4649,Kid'S Stuff
+850eb42a-2275-4750-a184-131ad92c5443,Cake by the Slice
+dd933a25-24ad-4652-acbd-6b54ea0c4649,Add-Ons And Sides
+34a833d5-fe71-434a-841f-1c8d40a3e9c7,Desserts
+b7b91b39-f841-47cf-8172-07a41d9dc238,Breakfast Tacos
+3ed4a692-88e4-452e-994a-f87ba1301ee5,Brekkie All Day
+3ed4a692-88e4-452e-994a-f87ba1301ee5,Pastries & Snacks
+e5340482-0fa4-4560-bb66-390e16b019fa,Single Cupcakes
+e5ca8807-295f-4f94-9c44-a08097a6271c,Savory
+e5ca8807-295f-4f94-9c44-a08097a6271c,Desserts
+f56b006e-33fe-463b-b011-67d844fa0cb3,Beverages
+f56b006e-33fe-463b-b011-67d844fa0cb3,Cactus Plant Flea Market Box
+f56b006e-33fe-463b-b011-67d844fa0cb3,Combo Meals
+f56b006e-33fe-463b-b011-67d844fa0cb3,Most Popular
+f56b006e-33fe-463b-b011-67d844fa0cb3,McNuggets & Meals
+f56b006e-33fe-463b-b011-67d844fa0cb3,Fries
+f56b006e-33fe-463b-b011-67d844fa0cb3,Sweets & Treats
+f56b006e-33fe-463b-b011-67d844fa0cb3,McCafé® Coffees
+f56b006e-33fe-463b-b011-67d844fa0cb3,McCafé Bakery
+43110922-7d3c-428d-94b1-58e89c271ecf,Breakfast
+476c7b93-c4d7-485f-9044-97d5f501e97b,Meals (pm)
+43110922-7d3c-428d-94b1-58e89c271ecf,Sides
+91db9574-51f5-4767-ad6e-88ec05dc167c,Subway® Series
+476c7b93-c4d7-485f-9044-97d5f501e97b,Sides
+476c7b93-c4d7-485f-9044-97d5f501e97b,Beverages
+476c7b93-c4d7-485f-9044-97d5f501e97b,Breakfast Meals
+91db9574-51f5-4767-ad6e-88ec05dc167c,Classic Sandwiches
+476c7b93-c4d7-485f-9044-97d5f501e97b,Breakfast Beverages
+476c7b93-c4d7-485f-9044-97d5f501e97b,Breakfast Sides
+91db9574-51f5-4767-ad6e-88ec05dc167c,Fresh Melts®
+91db9574-51f5-4767-ad6e-88ec05dc167c,Breakfast
+720b1cdf-ad19-44df-8efc-86b6e5679fd5,Donuts
+720b1cdf-ad19-44df-8efc-86b6e5679fd5,Croissants
+720b1cdf-ad19-44df-8efc-86b6e5679fd5,Beverage
+9f4ed18f-73c9-4706-b4ba-fe31e2401d45,All Day Breakfast
+720b1cdf-ad19-44df-8efc-86b6e5679fd5,Kolaches
+f74f500d-c3c8-44e3-b41b-fa2e8f694361,Breakfast
+6cd854d8-fbb2-448a-93dd-cdeea697fc38,Featured Items
+f9fbc7eb-f8df-4078-bd18-d07ee38b91b1,Beef Tacos
+f9fbc7eb-f8df-4078-bd18-d07ee38b91b1,Pork Tacos
+f9fbc7eb-f8df-4078-bd18-d07ee38b91b1,Chicken Tacos
+f9fbc7eb-f8df-4078-bd18-d07ee38b91b1,Seafood Tacos
+f9fbc7eb-f8df-4078-bd18-d07ee38b91b1,Vegetarian Tacos
+f9fbc7eb-f8df-4078-bd18-d07ee38b91b1,"Salads, Bowls, & Soup"
+f9fbc7eb-f8df-4078-bd18-d07ee38b91b1,Family Packs
+f9fbc7eb-f8df-4078-bd18-d07ee38b91b1,Breakfast Tacos
+f9fbc7eb-f8df-4078-bd18-d07ee38b91b1,Drinks
+3ed4a692-88e4-452e-994a-f87ba1301ee5,Coffee Boxes
+8d59c735-4d7b-4712-86f3-9eb814988243,Family Meals
+8d59c735-4d7b-4712-86f3-9eb814988243,Torta
+c8d80e3f-5ba2-4c6b-b39e-6ae3b7420b6f,Family/Group Meals
+c8d80e3f-5ba2-4c6b-b39e-6ae3b7420b6f,Limited Time Offers
+c8d80e3f-5ba2-4c6b-b39e-6ae3b7420b6f,Breakfast
+c8d80e3f-5ba2-4c6b-b39e-6ae3b7420b6f,Taco Boxes
+f99a29c8-d267-4d20-b1bd-cfab45b90a21,Grab And Go Cooler
+f99a29c8-d267-4d20-b1bd-cfab45b90a21,Haus Drinks
+f99a29c8-d267-4d20-b1bd-cfab45b90a21,Sides
+f99a29c8-d267-4d20-b1bd-cfab45b90a21,Specialty Kolache
+a79af9a7-d8cc-4199-82da-8c02307f6c4a,Appetizers
+1e632518-ee30-4a71-b3d6-04b985580960,Tacos
+0ca69ece-38ad-4109-9302-48e9041fbe32,Tacos & Mas
+0ca69ece-38ad-4109-9302-48e9041fbe32,Morning Tacos & Chilaquiles
+0ca69ece-38ad-4109-9302-48e9041fbe32,Start Your Day With Teleras
+0ca69ece-38ad-4109-9302-48e9041fbe32,Morning Drinks
+0ca69ece-38ad-4109-9302-48e9041fbe32,Packs
+0ca69ece-38ad-4109-9302-48e9041fbe32,Drinks Sin Alcohol
+a771ca5a-32a4-4dca-889e-0731f4727567,Desserts
+a771ca5a-32a4-4dca-889e-0731f4727567,Beverages
+f9932228-1be9-400f-b772-521fc49f64bd,Macarons
+f9932228-1be9-400f-b772-521fc49f64bd,"Flatbreads
+"
+f9932228-1be9-400f-b772-521fc49f64bd,"Scones
+"
+0ef5d1d0-5b9b-4458-aeaa-4dc2bd020d69,Savory
+0ef5d1d0-5b9b-4458-aeaa-4dc2bd020d69,Sweets
+357211bc-238e-4463-9077-3305b1a98a02,Entrees
+1a3bed31-e2be-403e-ab46-f6f4f3d485f7,All Day Menu
+1a3bed31-e2be-403e-ab46-f6f4f3d485f7,Dessert
+166e23bf-c89d-4fcd-a8f4-bd7936c4a55d,Brunch
+166e23bf-c89d-4fcd-a8f4-bd7936c4a55d,Brunch Sides
+166e23bf-c89d-4fcd-a8f4-bd7936c4a55d,Brunch Special
+da9a95c7-65a0-41df-a6af-7c158fd200e0,A la carte Protein Menu
+8dea939e-395c-4be4-8665-2f94c34b0435,Appertizer
+b941713a-fb76-464e-b2ba-7c26277fe78a,Drinks (S)
+b941713a-fb76-464e-b2ba-7c26277fe78a,Drinks (WD)
+b941713a-fb76-464e-b2ba-7c26277fe78a,Drinks (WE)
+3173e4e2-ed14-42f8-93dc-81b2c65eb5a9,Soups
+05a6a06f-684c-461c-a9a2-6dd84dc06509,Legim
+05a6a06f-684c-461c-a9a2-6dd84dc06509,Sides
+05a6a06f-684c-461c-a9a2-6dd84dc06509,Drinks
+05a6a06f-684c-461c-a9a2-6dd84dc06509,Kreyol Wings 
+05a6a06f-684c-461c-a9a2-6dd84dc06509,Fritay Special /Friday & Saturday Only 
+47a38def-774a-4e1e-82f7-68f04e79a4e9,Pita Wraps
+47a38def-774a-4e1e-82f7-68f04e79a4e9,Desserts
+47a38def-774a-4e1e-82f7-68f04e79a4e9,Dips
+714c9a39-e738-4990-a034-796909163dca,Pulutan
+1f546eaa-7520-417b-af9b-45c317d4da5f,Plates
+1f546eaa-7520-417b-af9b-45c317d4da5f,Odds + Ends
+7efebc1a-2888-4e7c-b897-bd52228b5af0,Aguas Frescas & More
+1f5a8390-51e5-4027-b344-5f6af3333ec7,Big City Margaritas
+a6ac5dd0-3fe1-498c-904e-d9e9c890dc19,Soups
+2ee1d7a3-d839-4472-8524-176ae7461a2d,Burgers
+2ee1d7a3-d839-4472-8524-176ae7461a2d,Southern Comfort Food
+659421d8-118c-4277-8ade-6968fd43ae08,Appetizers
+d3e2d381-59eb-4020-aeca-7b35bf81992f,Bar Food
+d3e2d381-59eb-4020-aeca-7b35bf81992f,Sandwiches
+d3e2d381-59eb-4020-aeca-7b35bf81992f,Rice Bowls
+d3e2d381-59eb-4020-aeca-7b35bf81992f,Meat Plates
+b4eca838-c446-4b17-8b98-c829f4ef76d1,Appetizers
+b4eca838-c446-4b17-8b98-c829f4ef76d1,Desserts
+668dac58-b717-4aa3-8730-c1bda23357f7,INSALATA   TAKEOUT
+f6cdbae5-aa62-418f-983d-c56d2f646d28,Appetizers
+f6cdbae5-aa62-418f-983d-c56d2f646d28,Desserts
+1417a36a-3f8b-4879-bfb4-1790f9688fba,Mac & Cheese Bowls
+a386ca00-0cd2-44c0-b2f5-182d594b8e80,Appetizers
+a386ca00-0cd2-44c0-b2f5-182d594b8e80,Drinks
+87f5cac3-4823-4011-aab3-9d31291983f8,Pints
+074ded03-ab55-4b40-9723-e8f9696fd5ff,Breakfast Plates
+074ded03-ab55-4b40-9723-e8f9696fd5ff,Breakfast Tacos
+074ded03-ab55-4b40-9723-e8f9696fd5ff,Omelettes
+074ded03-ab55-4b40-9723-e8f9696fd5ff,Breakfast Sandwich
+074ded03-ab55-4b40-9723-e8f9696fd5ff,Breakfast Tortas
+42292510-29ec-445c-a21c-544ad72c8d03,Morning Favorites
+42292510-29ec-445c-a21c-544ad72c8d03,Drinks
+96472472-89c0-4251-bb78-719f115de2d3,Salades & Soupes
+a8939b6e-bf9e-4da0-ae3e-d7e8671ac19b,Signature Sandwiches
+a8939b6e-bf9e-4da0-ae3e-d7e8671ac19b,Deli Sandwiches
+a8939b6e-bf9e-4da0-ae3e-d7e8671ac19b,Gourmet Breakfast Specialties
+0cced5ac-1707-4a37-983c-52980c4e6858,Potstickers
+3ec526ab-b324-484c-9909-c96f77baed0f,Combo Meals
+3ec526ab-b324-484c-9909-c96f77baed0f,Chicken Tenders
+3ec526ab-b324-484c-9909-c96f77baed0f,Bone In Wings
+3ec526ab-b324-484c-9909-c96f77baed0f,Chicken Sandwiches
+3ec526ab-b324-484c-9909-c96f77baed0f,Breakfast 
+3ec526ab-b324-484c-9909-c96f77baed0f,Desserts
+3ec526ab-b324-484c-9909-c96f77baed0f,Sides
+95ac754e-44cd-49b7-a900-199e782a047c,SHAREABLE STARTERS
+95ac754e-44cd-49b7-a900-199e782a047c,GRILL
+95ac754e-44cd-49b7-a900-199e782a047c,SOUPS
+95ac754e-44cd-49b7-a900-199e782a047c,SALADS
+95ac754e-44cd-49b7-a900-199e782a047c,PASTAS
+95ac754e-44cd-49b7-a900-199e782a047c,BURGERS & SANDWICHES
+95ac754e-44cd-49b7-a900-199e782a047c,ENTREES & TACOS
+95ac754e-44cd-49b7-a900-199e782a047c,KIDS MENU
+95ac754e-44cd-49b7-a900-199e782a047c,DESSERTS & PASTRIES
+95ac754e-44cd-49b7-a900-199e782a047c,BREAKFAST
+95ac754e-44cd-49b7-a900-199e782a047c,BREAKFAST SIDES
+77b9776e-ffd8-465d-b903-6573a036d672,Mains
+77b9776e-ffd8-465d-b903-6573a036d672,Salads
+77b9776e-ffd8-465d-b903-6573a036d672,Childish
+77b9776e-ffd8-465d-b903-6573a036d672,Desserts
+77b9776e-ffd8-465d-b903-6573a036d672,Catering
+77b9776e-ffd8-465d-b903-6573a036d672,Drinks
+77b9776e-ffd8-465d-b903-6573a036d672,Wine
+77b9776e-ffd8-465d-b903-6573a036d672,Cocktails
+b5350fa7-bbc3-4143-af02-2efeb6435926,Sandwiches
+b5350fa7-bbc3-4143-af02-2efeb6435926,Flatbread Pizzas
+b5350fa7-bbc3-4143-af02-2efeb6435926,Raw
+b5350fa7-bbc3-4143-af02-2efeb6435926,Pancakes
+b7b91b39-f841-47cf-8172-07a41d9dc238,Beverage And Grab N Go
+e9b9d043-0c5c-4f34-a595-dfdf70aa0bde,Dessert
+e9b9d043-0c5c-4f34-a595-dfdf70aa0bde,Breakfast
+e9b9d043-0c5c-4f34-a595-dfdf70aa0bde,Sides
+e9b9d043-0c5c-4f34-a595-dfdf70aa0bde,Salsa
+e9b9d043-0c5c-4f34-a595-dfdf70aa0bde,Drinks
+e9b9d043-0c5c-4f34-a595-dfdf70aa0bde,Kids Drinks
+a0198cf3-a0cf-4eb8-a1f7-217d8985ddca,Featured Items
+4d1e8807-9ef0-4cdd-b1ac-1b4b5f69e2e1,Dessert
+1e25b426-2225-486e-a086-59a6343aa2ac,Natural Lattes
+d5bc89fb-d42f-4c2a-8b7c-5da8e9064450,Italian Ice Pints
+552e1620-380b-4b7c-82f1-57cac478febd,Vegan Soft Serve
+552e1620-380b-4b7c-82f1-57cac478febd,Citrus & Fruit Juices
+2f02f3db-b4d0-4641-8749-0414eb125380,Lunch and Dinner
+7da3280b-9ab7-4ad4-93cb-fb2f8ada6ea7,Desserts
+1fbb0be8-f722-4f20-9d99-702bc3fd6bb2,Desserts
+665d3fd9-1e5c-4ec1-ac77-ab00e73d1113,Sides
+23116857-d8a2-4b73-aee2-44afd7e716a5,Limited Time Offer
+23116857-d8a2-4b73-aee2-44afd7e716a5,Platters
+dd933a25-24ad-4652-acbd-6b54ea0c4649,Sides
+dd933a25-24ad-4652-acbd-6b54ea0c4649,Speciality Drinks
+5d4c90e1-c06c-492e-ab6c-022dc7aae8a7,Desserts
+3351637e-f579-46d3-b242-293002561a6e,Pick Me Up
+a2a78cf4-8013-48db-b00f-d706f5616322,Soup
+a5a004ba-45e1-44df-bad2-27e59a20430a,Rakkan Ramen Rice Bowl
+7ef76fe3-364d-43fe-80a4-449ef1fbce9e,Plates
+7640192e-9d35-4f0b-ae00-8a3b302f37b9,Coffee
+7640192e-9d35-4f0b-ae00-8a3b302f37b9,Tea & Juice
+4f9f7426-c72b-4626-a976-1f7d46441083,To Go Bar
+b78c8fb8-b32a-4007-a0d6-337fdc7271f3,Fried Platters
+b78c8fb8-b32a-4007-a0d6-337fdc7271f3,Boiled Seafood
+0545cb6c-dd16-48b7-b275-f68b3f3258fe,Main
+b78c8fb8-b32a-4007-a0d6-337fdc7271f3,Wok
+b78c8fb8-b32a-4007-a0d6-337fdc7271f3,Poboys
+a093c609-02c2-4ca5-a99a-295f2e13584d,TruuLove Pancakes
+934de227-398b-4be8-a0c2-1e3f33bc585e,Astros
+934de227-398b-4be8-a0c2-1e3f33bc585e,Halloween & Day of the Dead
+934de227-398b-4be8-a0c2-1e3f33bc585e,Slices
+2ed0c9c9-770a-4adf-85d6-5f2d52a6e7f5,Country Platters
+4f1bbd11-50cf-4ca2-b660-de39bd004ecc,Sides
+385b1504-4a10-4b96-b660-50449ff80028,Pastries
+2674ee3f-40cd-466e-8ac5-fa4cb4ea12b6,Fam Bundles
+2674ee3f-40cd-466e-8ac5-fa4cb4ea12b6,Rise + Shines
+d97db1fd-e5ed-497b-8a51-b1fcc925ab52,Natural Smoothies
+d97db1fd-e5ed-497b-8a51-b1fcc925ab52,Yogurt + Fruit Smoothies
+d97db1fd-e5ed-497b-8a51-b1fcc925ab52,Workout Fuel Smoothies
+d97db1fd-e5ed-497b-8a51-b1fcc925ab52,Fruit + Veggies Smoothies
+d97db1fd-e5ed-497b-8a51-b1fcc925ab52,Fresh Squeezed & Pressed Juices
+8fab7add-af0b-44b6-ac7f-a65200a01c46,Breakfast Sides
+8fab7add-af0b-44b6-ac7f-a65200a01c46,Sides
+8fab7add-af0b-44b6-ac7f-a65200a01c46,Desserts
+b6fb4041-eb5e-4a84-9bf4-d19e17b6eb51,SANDWICHES
+9bc090f7-6aa7-45b0-8b35-6289021fdc2f,Wings
+9bc090f7-6aa7-45b0-8b35-6289021fdc2f,Shareables
+9bc090f7-6aa7-45b0-8b35-6289021fdc2f,World Series Special
+9bc090f7-6aa7-45b0-8b35-6289021fdc2f,Catering Trays
+50093714-b7ef-41f8-8b0b-bc5365373d9b,Kid's Food
+98b16d0a-ff11-4400-9593-2714be33b092,Drinks
+f318e6e8-2080-45b4-bc7a-da1e41f15b14,Bibimbap Bowls
+f318e6e8-2080-45b4-bc7a-da1e41f15b14,Sides
+f318e6e8-2080-45b4-bc7a-da1e41f15b14,Drinks
+bdf6c1f6-6c91-4d86-9fd5-d541cebb6dde,BOILED SEAFOOD
+e357185f-47aa-44d7-81b4-1372e8732b0c,Sandwiches/Dinners
+e357185f-47aa-44d7-81b4-1372e8732b0c,Grinders
+e357185f-47aa-44d7-81b4-1372e8732b0c,Boneless Skinless
+e357185f-47aa-44d7-81b4-1372e8732b0c,Kids' Menu
+e357185f-47aa-44d7-81b4-1372e8732b0c,Burgers
+e357185f-47aa-44d7-81b4-1372e8732b0c,Salads
+e357185f-47aa-44d7-81b4-1372e8732b0c,Seafood
+99170654-b701-42b9-9a5b-c2918d8314ad,Chick
+99170654-b701-42b9-9a5b-c2918d8314ad,Beef
+99170654-b701-42b9-9a5b-c2918d8314ad,Sides
+99170654-b701-42b9-9a5b-c2918d8314ad,Boozy Libations
+99170654-b701-42b9-9a5b-c2918d8314ad,Beverages
+99170654-b701-42b9-9a5b-c2918d8314ad,Kid's Menu
+99170654-b701-42b9-9a5b-c2918d8314ad,Gluten Free
+b42e4bf0-2aaa-4ae0-8533-f7490d76e81b,Sides/Sauce/Bread
+5cdd5601-df12-474a-ac08-70a3187531ad,Desserts
+1b79da54-2250-4483-aa00-24e6b50d17fd,Appetizers
+1b79da54-2250-4483-aa00-24e6b50d17fd,Salads & Soups
+1b79da54-2250-4483-aa00-24e6b50d17fd,Combinations
+1b79da54-2250-4483-aa00-24e6b50d17fd,Platters | From The Grill 
+b7bb80f1-5141-4a35-ab61-b240eaf5ea1a,Shawarma
+1b79da54-2250-4483-aa00-24e6b50d17fd,Cyclone’s Favorites
+1b79da54-2250-4483-aa00-24e6b50d17fd,Signature Margaritas
+0382237c-6348-4be3-917a-1911e448d6a4,The Meat-Free
+54ae7b7e-84f3-4c7e-9bda-de32d2b0d2a9,Starters
+54ae7b7e-84f3-4c7e-9bda-de32d2b0d2a9,Salads
+54ae7b7e-84f3-4c7e-9bda-de32d2b0d2a9,Homemade Lasagna
+54ae7b7e-84f3-4c7e-9bda-de32d2b0d2a9,Plates
+54ae7b7e-84f3-4c7e-9bda-de32d2b0d2a9,Tex-Mex
+b3871d79-7a5d-4902-8e84-3016fdb8fb70,"Sides, Drinks, & Desserts"
+4c8851c7-daa2-4ad3-bd65-25bbff0bc1d0,Beer
+4c8851c7-daa2-4ad3-bd65-25bbff0bc1d0,Wine
+ed26ed65-295a-46c0-8b9d-7dd3fd7de19e,Sandwiches
+11780816-25cd-4fa3-9ac3-3e8dda9120c8,DESSERTS
+565dd8c6-a973-4791-ba9b-5903bf6635ac,Drinks
+565dd8c6-a973-4791-ba9b-5903bf6635ac,Cookies
+ab60bdbc-e9a9-4046-a8a7-fad83819ce28,Cut Rolls
+ab60bdbc-e9a9-4046-a8a7-fad83819ce28,Small Plates And Meals
+34a833d5-fe71-434a-841f-1c8d40a3e9c7,Appetizers / Sides
+3393cfee-b8dd-46f7-b37c-43b7de33e9e9,Lunch & Dinner
+ea096ff9-a04f-4dc5-9ae4-eee40f670ed9,Drinks
+ea096ff9-a04f-4dc5-9ae4-eee40f670ed9,Party Tray
+7d36b589-bdd0-4886-9f62-d3cb18c4e23a,Soups
+7d36b589-bdd0-4886-9f62-d3cb18c4e23a,Sweet & Beverages
+7d36b589-bdd0-4886-9f62-d3cb18c4e23a,Esarn Classic
+7d36b589-bdd0-4886-9f62-d3cb18c4e23a,Street Menu
+10810082-0318-413c-b2cb-e54e78a06752,Desserts
+6be393e6-4603-49e8-9303-d79f3422c927,Best Desserts Ever!
+5589467a-62ad-463f-96cd-3597376a66e5,Baskets
+5589467a-62ad-463f-96cd-3597376a66e5,Appetizers
+d6002e37-fc5e-4b3a-b866-ab778fa02846,Sides
+290b8f12-f9a0-4098-b9be-17475cc6b1e7,Specialty Rolls
+b63e4b3f-834d-41d9-ac03-fa239bedd7be,Menu
+b63e4b3f-834d-41d9-ac03-fa239bedd7be,Drinks
+b72e7328-4193-485a-af6f-b7cbfc5d70a1,Desserts
+44b3ce95-dd1e-4fca-aa54-e6f0c27d8ecc,Appetizers
+44b3ce95-dd1e-4fca-aa54-e6f0c27d8ecc,Desserts
+a45593e9-2f36-4587-8c1f-68e964f800ee,Pie - Slice
+9eb4a803-fb6d-4d23-8fec-b02343e143a6,Desserts
+1de554fa-653d-48c2-b01a-94abfe22aa26,Desserts
+e64d7cab-5a42-48a4-ba97-917cc8935618,Starters
+e64d7cab-5a42-48a4-ba97-917cc8935618,Salads
+e64d7cab-5a42-48a4-ba97-917cc8935618,Sandwiches
+e64d7cab-5a42-48a4-ba97-917cc8935618,Entrees
+e64d7cab-5a42-48a4-ba97-917cc8935618,Sides
+e64d7cab-5a42-48a4-ba97-917cc8935618,Fresh Baked Goodes And Desserts
+e64d7cab-5a42-48a4-ba97-917cc8935618,Beverages
+a6dcaec2-7a2a-41da-bfe5-dc17caad6f9c,Appetizers - Dinner
+954b9414-4659-4444-bc6f-3455e7d5dbe2,Appetizers
+791d5805-8c9c-4563-8b1b-bff534e65db3,BYO Bowls
+791d5805-8c9c-4563-8b1b-bff534e65db3,Signature Bowls
+791d5805-8c9c-4563-8b1b-bff534e65db3,Sides
+791d5805-8c9c-4563-8b1b-bff534e65db3,Desserts
+40b0587e-2408-4085-b9a7-1cf180ed5f0a,Side Dishes
+074060f7-a1cc-4b0f-bcef-0bf9eb0213fb,Appetizers
+cd592e81-a34a-4899-9d71-d3d87abb155f,Beverages
+732aac8d-4e58-433e-b196-0d3782e0d406,1.Starters & Sides
+732aac8d-4e58-433e-b196-0d3782e0d406,3. K's Hot Chicken Sandwiches
+bc4233e1-372d-4263-a52f-653a755273c3,Desserts
+8f9b6f1b-3101-4510-90c9-a5274a3df0b8,Desserts
+65eeff1e-dbf4-47d7-8cf4-37dce9c25b8e,Desserts
+5768cfa3-dbf3-4a40-bf0b-e2860940af24,Desserts
+5971ada4-4559-410c-8ebe-26142eea5e76,Desserts
+16fca8df-7604-4c23-ba2d-464ee7124d69,Samosas (6)
+16fca8df-7604-4c23-ba2d-464ee7124d69,Menu
+058df961-6539-41d1-93ee-4bc9ed0a782b,Snacks
+31f36a19-efad-4b25-8f2e-ac2f74c91a08,Dessert
+1e240517-0f61-4274-8947-03dc04c6c85f,Breakfast* - Breakfast Tacos***
+1e240517-0f61-4274-8947-03dc04c6c85f,Breakfast* - Breakfast Sandwiches
+1e240517-0f61-4274-8947-03dc04c6c85f,Breakfast* - Breakfast Burritos
+1e240517-0f61-4274-8947-03dc04c6c85f,Breakfast* - Omelette
+1e240517-0f61-4274-8947-03dc04c6c85f,Breakfast* - Breakfast A La Carte
+1e240517-0f61-4274-8947-03dc04c6c85f,Breakfast* - Fruit Cup & Yogurt Parfaits
+1e240517-0f61-4274-8947-03dc04c6c85f,Lunch* - Sandwiches-Signature - Lunch
+1e240517-0f61-4274-8947-03dc04c6c85f,Lunch* - Wraps - Lunch
+1e240517-0f61-4274-8947-03dc04c6c85f,Lunch* - Paninis - Lunch
+1e240517-0f61-4274-8947-03dc04c6c85f,Lunch* - Build Your Own Sandwich
+1e240517-0f61-4274-8947-03dc04c6c85f,Lunch* - Salads
+1e240517-0f61-4274-8947-03dc04c6c85f,Grill-Lunch* - Grill Items
+1e240517-0f61-4274-8947-03dc04c6c85f,Soups-Baked Potato* - Baked Potato
+1e240517-0f61-4274-8947-03dc04c6c85f,Bowls-Lunch*
+1e240517-0f61-4274-8947-03dc04c6c85f,Drinks* - Smoothies
+1e240517-0f61-4274-8947-03dc04c6c85f,Drinks* - Juices - Fresh
+56bd80c6-991f-481d-92d5-a2ebdc621786,Desserts
+53ac9b2e-44b9-422f-9974-ec5a8fff4850,Entrées
+d7561c10-8413-4bee-b77b-012111f50ce5,House Cocktails
+d7561c10-8413-4bee-b77b-012111f50ce5,House Wine
+d7561c10-8413-4bee-b77b-012111f50ce5,Flights
+d7561c10-8413-4bee-b77b-012111f50ce5,Beer
+d7561c10-8413-4bee-b77b-012111f50ce5,Frozen
+60c61283-ce7f-4364-8c67-db85a4ff1390,Desserts
+f453d18d-f9d4-4593-a6ce-ba0921963e6c,Saturday Brunch Entrees
+f453d18d-f9d4-4593-a6ce-ba0921963e6c,Saturday Brunch Classics
+f453d18d-f9d4-4593-a6ce-ba0921963e6c,Saturday Brunch Pizzas & Flatbreads
+f453d18d-f9d4-4593-a6ce-ba0921963e6c,Saturday Brunch Salads
+f453d18d-f9d4-4593-a6ce-ba0921963e6c,Saturday Brunch Sides
+f453d18d-f9d4-4593-a6ce-ba0921963e6c,Saturday Brunch Desserts
+5552ae02-3493-4d8a-a54f-68cad03bca2b,Desserts
+cc18aa58-4884-4372-bc53-05f63ff4d119,VEGETABLE ENTREE
+5a55d7a9-26aa-4b00-9fb5-51ae8661acf1,Dessert
+5a55d7a9-26aa-4b00-9fb5-51ae8661acf1,Appetizer
+5a55d7a9-26aa-4b00-9fb5-51ae8661acf1,Classic Small Dish
+5a55d7a9-26aa-4b00-9fb5-51ae8661acf1,Soup
+5a55d7a9-26aa-4b00-9fb5-51ae8661acf1,Chicken & Duck
+5a55d7a9-26aa-4b00-9fb5-51ae8661acf1,Beef or Lamb
+5a55d7a9-26aa-4b00-9fb5-51ae8661acf1,Seafood
+5a55d7a9-26aa-4b00-9fb5-51ae8661acf1,Pork
+5a55d7a9-26aa-4b00-9fb5-51ae8661acf1,Vegetables
+5a55d7a9-26aa-4b00-9fb5-51ae8661acf1,Fried Rice or Noodle
+665d3fd9-1e5c-4ec1-ac77-ab00e73d1113,Meals
+1e070612-8026-44de-98a1-2bd529e3063f,Beverages
+5a55d7a9-26aa-4b00-9fb5-51ae8661acf1,Curry
+665d3fd9-1e5c-4ec1-ac77-ab00e73d1113,Salads
+665d3fd9-1e5c-4ec1-ac77-ab00e73d1113,Kid's Meals
+665d3fd9-1e5c-4ec1-ac77-ab00e73d1113,Breakfast
+6cd854d8-fbb2-448a-93dd-cdeea697fc38,Burger Combos
+6cd854d8-fbb2-448a-93dd-cdeea697fc38,Burgers
+95e19bb8-e591-456f-8fcf-d7df4b6c9835,Dessert
+c413ecee-a4bb-4d32-bffd-7d8283a5cc0e,Drinks
+c413ecee-a4bb-4d32-bffd-7d8283a5cc0e,Appetizers
+c413ecee-a4bb-4d32-bffd-7d8283a5cc0e,Signature Dishes
+c413ecee-a4bb-4d32-bffd-7d8283a5cc0e,Desserts
+c413ecee-a4bb-4d32-bffd-7d8283a5cc0e,Online Soups & Salads
+c413ecee-a4bb-4d32-bffd-7d8283a5cc0e,Online Appetizers
+f0e6193e-fa80-42db-884b-25ac997258da,Desserts
+f0e6193e-fa80-42db-884b-25ac997258da,Combos
+c413ecee-a4bb-4d32-bffd-7d8283a5cc0e,Online Entrees
+f0e6193e-fa80-42db-884b-25ac997258da,A La Carte
+f0e6193e-fa80-42db-884b-25ac997258da,Dinners
+c413ecee-a4bb-4d32-bffd-7d8283a5cc0e,Online Curries
+c413ecee-a4bb-4d32-bffd-7d8283a5cc0e,Online Noodles
+c413ecee-a4bb-4d32-bffd-7d8283a5cc0e,Online Fried Rice
+c413ecee-a4bb-4d32-bffd-7d8283a5cc0e,Side
+c413ecee-a4bb-4d32-bffd-7d8283a5cc0e,Drinks 
+c413ecee-a4bb-4d32-bffd-7d8283a5cc0e,Kid’S Menu
+44dab6ad-09f2-4396-b606-8a25f6bf7913,Taco of the Month
+44dab6ad-09f2-4396-b606-8a25f6bf7913,Secret Menu
+44dab6ad-09f2-4396-b606-8a25f6bf7913,Eats & Treats
+44dab6ad-09f2-4396-b606-8a25f6bf7913,Drinks
+065ccb34-1161-4b8f-9d21-21ced4789cf8,WINGS
+e2e16bd5-fdcb-41b1-9b50-e76b4e5680ce,Appetizers
+c8dee513-3ec8-475b-8ca3-7c65eeb36782,BREAST CANCER AWARENESS
+c8dee513-3ec8-475b-8ca3-7c65eeb36782,STEAK AND CHICKEN 
+c8dee513-3ec8-475b-8ca3-7c65eeb36782,SPECIALTIES
+c8dee513-3ec8-475b-8ca3-7c65eeb36782,GLUTEN SENSITIVE
+cd35658c-df56-49bc-bf51-6bd411164a7e,Promotions
+cd35658c-df56-49bc-bf51-6bd411164a7e,New Red Chile Shredded Pork Carnitas
+cd35658c-df56-49bc-bf51-6bd411164a7e,Burritos
+cd35658c-df56-49bc-bf51-6bd411164a7e,Bowls
+cd35658c-df56-49bc-bf51-6bd411164a7e,Nachos
+cd35658c-df56-49bc-bf51-6bd411164a7e,Build Your Own Tacos
+cd35658c-df56-49bc-bf51-6bd411164a7e,Ten Tasty Tacos
+cd35658c-df56-49bc-bf51-6bd411164a7e,Kid's Menu
+cd35658c-df56-49bc-bf51-6bd411164a7e,Sides and More
+cd35658c-df56-49bc-bf51-6bd411164a7e,Beverages
+e8d6fc11-b00f-4704-a1a5-38c75d0bd234,Signature Bowls
+e8d6fc11-b00f-4704-a1a5-38c75d0bd234,Create Your Own Poké
+afde6cb7-5078-48d3-bcaa-2c5a2739bc2e,Snacks
+79546e76-41f6-464b-baae-21ff337ae5fd,FRUIT & SIDES       
+79546e76-41f6-464b-baae-21ff337ae5fd,SOUPS               
+79546e76-41f6-464b-baae-21ff337ae5fd,FAMOUS FAVORITES    
+79546e76-41f6-464b-baae-21ff337ae5fd,SPECIALTY SANDWICHES
+79546e76-41f6-464b-baae-21ff337ae5fd,BUILD YOUR OWN SANDWICHES
+79546e76-41f6-464b-baae-21ff337ae5fd,MUFFALETTAS         
+79546e76-41f6-464b-baae-21ff337ae5fd,PASTAS & POTATOES   
+79546e76-41f6-464b-baae-21ff337ae5fd,SALADS
+0fc1c6c8-efa0-4ba3-ac5c-63992793bcbc,Entrees/Plates!!!
+0fc1c6c8-efa0-4ba3-ac5c-63992793bcbc,Breakfast
+0fc1c6c8-efa0-4ba3-ac5c-63992793bcbc,Entrees & Plates
+0fc1c6c8-efa0-4ba3-ac5c-63992793bcbc,Quesadillas
+0fc1c6c8-efa0-4ba3-ac5c-63992793bcbc,Salads
+0fc1c6c8-efa0-4ba3-ac5c-63992793bcbc,Breakfast!!!
+54cf27cb-6478-45b7-9240-d9eeb5e2e2ed,PARTY TRAYS
+79546e76-41f6-464b-baae-21ff337ae5fd,DRINKS              
+0fc1c6c8-efa0-4ba3-ac5c-63992793bcbc,Sides!!!
+79546e76-41f6-464b-baae-21ff337ae5fd,DESSERTS            
+42292510-29ec-445c-a21c-544ad72c8d03,Breakfast Sandwiches
+79546e76-41f6-464b-baae-21ff337ae5fd,PARTY FOOD
+42292510-29ec-445c-a21c-544ad72c8d03,Panini & Hot Sandwiches
+79546e76-41f6-464b-baae-21ff337ae5fd,BREAKFAST           
+27807126-f6a7-4c5c-9522-28e93e046bce,Bowls
+27807126-f6a7-4c5c-9522-28e93e046bce,Drinks & Desserts
+42292510-29ec-445c-a21c-544ad72c8d03,Bakery
+42292510-29ec-445c-a21c-544ad72c8d03,For a Limited Time Only!
+f2a8512c-5c13-4699-9b4e-297688f1cb8a,Drinks
+cdf9e986-5fe8-4231-9665-b2d5af548c93,Ice Cream Combinations
+cdf9e986-5fe8-4231-9665-b2d5af548c93,Cookies
+cdf9e986-5fe8-4231-9665-b2d5af548c93,Signature Sundaes
+cdf9e986-5fe8-4231-9665-b2d5af548c93,MilkShakes
+cdf9e986-5fe8-4231-9665-b2d5af548c93,Premium Ice Cream Cakes
+cdf9e986-5fe8-4231-9665-b2d5af548c93,Beverages
+cdf9e986-5fe8-4231-9665-b2d5af548c93,Pints and Quarts
+2ecf7993-f5ec-49a6-be0d-184faac32e32,To-Go Alcohol
+c5a19b38-b5c4-41e5-b531-cd5f80d5ff5c,Sides
+c5a19b38-b5c4-41e5-b531-cd5f80d5ff5c,Fish & Shrimp
+c5a19b38-b5c4-41e5-b531-cd5f80d5ff5c,Chicken Combinations
+c5a19b38-b5c4-41e5-b531-cd5f80d5ff5c,Blackened
+c5a19b38-b5c4-41e5-b531-cd5f80d5ff5c,Etouffee Combos
+c5a19b38-b5c4-41e5-b531-cd5f80d5ff5c,Boiled By The Pound
+a6a5659d-884d-4377-90e0-7528717d703d,Combos
+40918484-f23d-42bc-8931-7fae763a8a63,Featured Selection
+40918484-f23d-42bc-8931-7fae763a8a63,Pizza
+f9932228-1be9-400f-b772-521fc49f64bd,"Macarons
+"
+d4c1645f-a81b-4d52-899e-fe951085760a,Gyu-Bento
+d4c1645f-a81b-4d52-899e-fe951085760a,Gyu-Bowls
+d4c1645f-a81b-4d52-899e-fe951085760a,Gyu-Noodles
+d4c1645f-a81b-4d52-899e-fe951085760a,Gyu For All!
+d4c1645f-a81b-4d52-899e-fe951085760a,Sides
+d4c1645f-a81b-4d52-899e-fe951085760a,Desserts
+d4c1645f-a81b-4d52-899e-fe951085760a,Gyu-Combo: Create Your Own Combo!
+d4c1645f-a81b-4d52-899e-fe951085760a,Gyu-Bowls: Rice & Noodle Bowls 
+d4c1645f-a81b-4d52-899e-fe951085760a,Gyu-Ramen: Signature Ramens
+c75532c1-2d75-4db3-85c3-2b5f4ebaa5cf,Limited Time Doughnuts
+c4ef41b4-491e-42f9-953e-33d07d3e347b,SUPER VEGGIE SMOOTHIES
+c4ef41b4-491e-42f9-953e-33d07d3e347b,BALANCED FUSION SMOOTHIES
+c4ef41b4-491e-42f9-953e-33d07d3e347b,TROPICAL TREAT SMOOTHIES
+659421d8-118c-4277-8ade-6968fd43ae08,Poultry Entree
+c4ef41b4-491e-42f9-953e-33d07d3e347b,FRUIT BLEND SMOOTHIES
+31f8691e-ef3e-4c6f-9424-84bc4af04c9d,Venezuelan Arepas
+a553d63f-93cc-499e-b48f-6edb663dcb9c,Small Plates
+a553d63f-93cc-499e-b48f-6edb663dcb9c,Pizza
+e795ba93-c841-4684-a5c6-6cf8b8389760,Shakes
+e795ba93-c841-4684-a5c6-6cf8b8389760,Burgers
+b2cd468a-d2e6-40ce-bd47-a3ebb8d888dc,Desserts
+19316881-9014-4d3c-b045-11f2f02c21cd,Drink
+fa5acd1b-ed2a-48b3-a2e0-779719492da4,Blizzard® Treats
+ab60bdbc-e9a9-4046-a8a7-fad83819ce28,Merchandise
+e1ace25a-8b62-4b40-b25d-187ac3d34c94,Appetizers
+e1ace25a-8b62-4b40-b25d-187ac3d34c94,Tex Mex Tacos 
+e1ace25a-8b62-4b40-b25d-187ac3d34c94,Pastas
+7d36b589-bdd0-4886-9f62-d3cb18c4e23a,Starters
+e1ace25a-8b62-4b40-b25d-187ac3d34c94,Sandwiches & Subs
+1f546eaa-7520-417b-af9b-45c317d4da5f,So Extra
+b65d68db-ee4d-42cd-8b19-f4d7d77962c2,Grilled Platters
+b65d68db-ee4d-42cd-8b19-f4d7d77962c2,By The Pound
+9e41cd0b-e10d-4b1e-976b-10a52a1a25d8,LIMITED-TIME OFFER 
+9e41cd0b-e10d-4b1e-976b-10a52a1a25d8,DESSERTS & BEVERAGES
+bf972ab3-3237-4a77-9518-6b8c36d3d497,Dessert Empandas
+2ae7e468-3ee0-4df9-975d-6de841ac22ae,Plant Based Food
+2ae7e468-3ee0-4df9-975d-6de841ac22ae,Daily Special Thursday
+2ae7e468-3ee0-4df9-975d-6de841ac22ae,Daily Special Monday
+95ac754e-44cd-49b7-a900-199e782a047c,BEVERAGES
+95ac754e-44cd-49b7-a900-199e782a047c,JOE TO GO
+349f6670-212e-47e1-b840-f08c55650469,SUSHI ENTRÉES
+9729bd9e-9edd-41fd-8d5d-633af52f8f95,Drinks
+45125bf7-17fc-4801-aadb-0fc114b48533,Signature Tea
+45125bf7-17fc-4801-aadb-0fc114b48533,Organic Coffee
+9f130eb8-28f5-423c-8c2b-f1f616337ffc,Limited Time Offerings
+45125bf7-17fc-4801-aadb-0fc114b48533,Frappe
+9f130eb8-28f5-423c-8c2b-f1f616337ffc,Limited Time Offers
+9f130eb8-28f5-423c-8c2b-f1f616337ffc,Sides
+7ca2eb22-1485-4574-9d75-43ccc7daedcf,Sides & Add Ons
+8d59c735-4d7b-4712-86f3-9eb814988243,Tacos
+8d59c735-4d7b-4712-86f3-9eb814988243,Sides
+8d59c735-4d7b-4712-86f3-9eb814988243,Sports Drinks
+a4fbecbd-9524-4629-a8c7-e113d818d79a,Fresh Baked Cookies
+8d59c735-4d7b-4712-86f3-9eb814988243,Sodas
+a4fbecbd-9524-4629-a8c7-e113d818d79a,Sandwiches
+a4fbecbd-9524-4629-a8c7-e113d818d79a,"Beverages, Chips"
+8d59c735-4d7b-4712-86f3-9eb814988243,Gatorade
+a4fbecbd-9524-4629-a8c7-e113d818d79a,Retail
+855f5001-4f07-48e2-b503-df97ffcb5164,16 oz Cold-Pressed
+855f5001-4f07-48e2-b503-df97ffcb5164,Cleanses
+855f5001-4f07-48e2-b503-df97ffcb5164,Cold-Pressed
+855f5001-4f07-48e2-b503-df97ffcb5164,Wellness Shots
+226f4352-9a38-4771-9010-6fbee157499b,Thanksgiving Packages
+226f4352-9a38-4771-9010-6fbee157499b,Thanksgiving A La Carte (Meat)
+226f4352-9a38-4771-9010-6fbee157499b,Thanksgiving Sides
+226f4352-9a38-4771-9010-6fbee157499b,Thanksgiving Desserts
+6df015d8-19d2-4456-9536-070a3a72b581,Salads & More
+226f4352-9a38-4771-9010-6fbee157499b,Thanksgiving Extras
+226f4352-9a38-4771-9010-6fbee157499b,Thanksgiving Drinks
+0d6a6f94-786e-4588-9012-b43645f36376,Masala Dosa
+81f8987c-c2cc-465c-ae0f-57ab89e0640b,"Steaks, Ribs, Chicken & Such"
+81f8987c-c2cc-465c-ae0f-57ab89e0640b,Beer (Easy Drinkers)
+81f8987c-c2cc-465c-ae0f-57ab89e0640b,Wine (Red Blends)
+81f8987c-c2cc-465c-ae0f-57ab89e0640b,Dinner Salads
+81f8987c-c2cc-465c-ae0f-57ab89e0640b,Burgers & Sandwiches
+81f8987c-c2cc-465c-ae0f-57ab89e0640b,Beer (IPAs)
+81f8987c-c2cc-465c-ae0f-57ab89e0640b,Beer (Lagers)
+81f8987c-c2cc-465c-ae0f-57ab89e0640b,Wine (Other Whites & Rose)
+d1b7fbaf-a4eb-4913-9da9-f54080dd6de8,Premium Sundaes
+d1b7fbaf-a4eb-4913-9da9-f54080dd6de8,Classic Sundaes
+d1b7fbaf-a4eb-4913-9da9-f54080dd6de8,Frozen Beverages
+99707fad-ac28-47b8-aa2f-566f2e46e29e,Sandwiches
+99707fad-ac28-47b8-aa2f-566f2e46e29e,Specialties of The House
+99707fad-ac28-47b8-aa2f-566f2e46e29e,Desserts
+99707fad-ac28-47b8-aa2f-566f2e46e29e,Pastas
+99707fad-ac28-47b8-aa2f-566f2e46e29e,Pizzas
+99707fad-ac28-47b8-aa2f-566f2e46e29e,Previews
+99707fad-ac28-47b8-aa2f-566f2e46e29e,Salads
+99707fad-ac28-47b8-aa2f-566f2e46e29e,Calzones
+99707fad-ac28-47b8-aa2f-566f2e46e29e,Chicken or Veal
+99707fad-ac28-47b8-aa2f-566f2e46e29e,Fish
+99707fad-ac28-47b8-aa2f-566f2e46e29e,Beverages
+b78c8fb8-b32a-4007-a0d6-337fdc7271f3,Appetizers
+e5340482-0fa4-4560-bb66-390e16b019fa,Bakeshop
+91db9574-51f5-4767-ad6e-88ec05dc167c,Sides
+91db9574-51f5-4767-ad6e-88ec05dc167c,Shareable Desserts
+2bdf2d84-d67b-42e5-9002-cceb82aaea93,Sides
+9c69518d-0c85-459a-8249-1e7f0d02b0d4,Oatmeal & Yogurt
+9f4ed18f-73c9-4706-b4ba-fe31e2401d45,Featured
+9f4ed18f-73c9-4706-b4ba-fe31e2401d45,Burgers
+9f4ed18f-73c9-4706-b4ba-fe31e2401d45,Chicken
+9f4ed18f-73c9-4706-b4ba-fe31e2401d45,Hot Dogs
+9f4ed18f-73c9-4706-b4ba-fe31e2401d45,Frozen Zone
+9f4ed18f-73c9-4706-b4ba-fe31e2401d45,Everyday Deals
+7ef0808a-e90f-4771-8dec-808f0cbb065c,MEAL DEAL
+7ef0808a-e90f-4771-8dec-808f0cbb065c,ROUND PIZZAS
+7ef0808a-e90f-4771-8dec-808f0cbb065c,DEEP!DEEP!™ DISH
+99170654-b701-42b9-9a5b-c2918d8314ad,Weekly Taco Feature (WTF)
+664c12d1-56b1-483b-b475-5ec784ab2fed,Dim Sim & Dumpling
+664c12d1-56b1-483b-b475-5ec784ab2fed,Appetizers
+664c12d1-56b1-483b-b475-5ec784ab2fed,Peking Duck
+664c12d1-56b1-483b-b475-5ec784ab2fed,Soup
+664c12d1-56b1-483b-b475-5ec784ab2fed,Fried Rice & Noodle
+664c12d1-56b1-483b-b475-5ec784ab2fed,Pork
+664c12d1-56b1-483b-b475-5ec784ab2fed,Beef & Lamb
+664c12d1-56b1-483b-b475-5ec784ab2fed,Chicken
+664c12d1-56b1-483b-b475-5ec784ab2fed,Seafood
+664c12d1-56b1-483b-b475-5ec784ab2fed,Vegetable
+da4a8c40-8f3c-4110-a7a7-2a743a705723,BáNH Mì - Vietnamese Sandwiches
+002de389-8d1e-424f-8c02-f4dbe2e56a05,Shakes & Frozen Custard
+b3b49b59-a338-457f-9a57-3ca482c99ce4,Iced Drinks
+4c8851c7-daa2-4ad3-bd65-25bbff0bc1d0,Beverages
+b3b49b59-a338-457f-9a57-3ca482c99ce4,Hot Drinks
+b3b49b59-a338-457f-9a57-3ca482c99ce4,Dunkin' Refreshers & Tea
+b3b49b59-a338-457f-9a57-3ca482c99ce4,Sandwiches & Wraps
+b3b49b59-a338-457f-9a57-3ca482c99ce4,Donuts & Bakery
+b3b49b59-a338-457f-9a57-3ca482c99ce4,Snacks & Sides
+b3b49b59-a338-457f-9a57-3ca482c99ce4,Brew at Home
+6d7d1b01-97a0-4c2c-8313-ff33645d98b5,Breakfast Sides
+6d7d1b01-97a0-4c2c-8313-ff33645d98b5,Breakfast Sandwich
+6d7d1b01-97a0-4c2c-8313-ff33645d98b5,Breakfast Torta
+6d7d1b01-97a0-4c2c-8313-ff33645d98b5,Desayunos Tradicionales
+6d7d1b01-97a0-4c2c-8313-ff33645d98b5,Desayunos Favoritos
+f9fbc7eb-f8df-4078-bd18-d07ee38b91b1,Limited Time Specials
+6d7d1b01-97a0-4c2c-8313-ff33645d98b5,Chilaquiles
+6d7d1b01-97a0-4c2c-8313-ff33645d98b5,Mega Breakfast Taco
+6d7d1b01-97a0-4c2c-8313-ff33645d98b5,Breakfast Tacos
+f9fbc7eb-f8df-4078-bd18-d07ee38b91b1,Desserts
+6d7d1b01-97a0-4c2c-8313-ff33645d98b5,Breakfast Burrito
+f74f500d-c3c8-44e3-b41b-fa2e8f694361,Featured
+f74f500d-c3c8-44e3-b41b-fa2e8f694361,Combos
+f74f500d-c3c8-44e3-b41b-fa2e8f694361,GROUPS
+f74f500d-c3c8-44e3-b41b-fa2e8f694361,Specialties
+f74f500d-c3c8-44e3-b41b-fa2e8f694361,Tacos
+f74f500d-c3c8-44e3-b41b-fa2e8f694361,Cravings Value Menu
+f74f500d-c3c8-44e3-b41b-fa2e8f694361,Sides
+f74f500d-c3c8-44e3-b41b-fa2e8f694361,Veggie Cravings
+90c7470a-b2fc-4acd-a54a-4be894a63f45,Breakfast 
+90c7470a-b2fc-4acd-a54a-4be894a63f45,Featured Items
+90c7470a-b2fc-4acd-a54a-4be894a63f45,Beverages
+710c4d56-b529-4412-bac3-f5b44c263ec4,Small Chops
+166e23bf-c89d-4fcd-a8f4-bd7936c4a55d,Starters (Togo)
+c4c531cb-90ab-4a03-b083-bff4cfd7f629,Mains
+f6cdbae5-aa62-418f-983d-c56d2f646d28,"The Boil: Crawfish, Shrimp, Crab And Add-Ons"
+f6cdbae5-aa62-418f-983d-c56d2f646d28,Texaneaux Combeauxs
+a8939b6e-bf9e-4da0-ae3e-d7e8671ac19b,Barry'S Burgers
+c9d2bdb0-1fba-48ab-94f1-1fab691ba288,Kids Meals
+693b19e3-ebb9-46ab-99f9-f566417dd573,Kolaches
+693b19e3-ebb9-46ab-99f9-f566417dd573,Boxes
+3e6561e4-da46-4c7b-8c54-a85a10dff99a,Fruit Salads
+3e6561e4-da46-4c7b-8c54-a85a10dff99a,Licuados - Shakes
+3e6561e4-da46-4c7b-8c54-a85a10dff99a,Season Menu
+3e6561e4-da46-4c7b-8c54-a85a10dff99a,Specialties
+3e6561e4-da46-4c7b-8c54-a85a10dff99a,Snacks
+ba169aee-6771-4c9b-bb3a-b4f89933131c,Drinks
+b159bd54-ea4a-4f21-98fb-3a08730fbc0a,Drinks & Desserts
+357211bc-238e-4463-9077-3305b1a98a02,Handhelds
+357211bc-238e-4463-9077-3305b1a98a02,Desserts
+357211bc-238e-4463-9077-3305b1a98a02,Dressings and Sauces
+357211bc-238e-4463-9077-3305b1a98a02,Family Meals
+357211bc-238e-4463-9077-3305b1a98a02,Drinks
+357211bc-238e-4463-9077-3305b1a98a02,Dressings And Sauces
+357211bc-238e-4463-9077-3305b1a98a02,Salads
+357211bc-238e-4463-9077-3305b1a98a02,Mix & Match
+357211bc-238e-4463-9077-3305b1a98a02,Clever Kids
+115ec02a-831a-4cad-855c-825277daee5a,Chicken
+115ec02a-831a-4cad-855c-825277daee5a,Beef
+115ec02a-831a-4cad-855c-825277daee5a,Pork
+115ec02a-831a-4cad-855c-825277daee5a,Chef's Special
+115ec02a-831a-4cad-855c-825277daee5a,Seafood
+bc056529-7076-46a4-b272-0fe08fb32628,Taqueria Tex Mex Plates
+115ec02a-831a-4cad-855c-825277daee5a,Dumpling & Noodle
+115ec02a-831a-4cad-855c-825277daee5a,Appetizers & Cold Dish
+115ec02a-831a-4cad-855c-825277daee5a,Vegetable
+115ec02a-831a-4cad-855c-825277daee5a,Lamb
+81e4924c-a5d6-418e-9e4e-d5b8cce6115a,Cold-Pressed Juice - Heavy Veggie Options
+f49c86b0-11c6-412c-9434-fdb57ec41880,Ramen
+f49c86b0-11c6-412c-9434-fdb57ec41880,Signature Poke
+f49c86b0-11c6-412c-9434-fdb57ec41880,Appetizer From Kitchen
+2a84a1f5-e63a-4e8c-83c9-93b96953673f,Pizza
+4f9f7426-c72b-4626-a976-1f7d46441083,Burgers
+67c6fa02-ce32-457e-b154-08451d751e0a,Drinks
+e6a75182-6046-465a-b2d8-2e65092e0b6a,Waffle Cones
+2ed0c9c9-770a-4adf-85d6-5f2d52a6e7f5,Sides
+3ec526ab-b324-484c-9909-c96f77baed0f,Sodas 
+3ec526ab-b324-484c-9909-c96f77baed0f,Gatorade
+916e1d28-7849-4296-bf25-c36c91355669,Grilled Plates
+916e1d28-7849-4296-bf25-c36c91355669,Additions
+bdf6c1f6-6c91-4d86-9fd5-d541cebb6dde,BASKETS & PO-BOYS
+bdf6c1f6-6c91-4d86-9fd5-d541cebb6dde,SIDES & MORE
+6f7ec4c0-13ec-4e31-ab8d-b623fce109fd,Starters
+6f7ec4c0-13ec-4e31-ab8d-b623fce109fd,Pasta
+d78a13da-33d0-4f2e-8d1a-52df11ba49be,Entrees
+d78a13da-33d0-4f2e-8d1a-52df11ba49be,Snacks
+d78a13da-33d0-4f2e-8d1a-52df11ba49be,Breakfast ( Served until 12 noon)
+5b79102b-20e6-4721-815c-28b497f4670a,Wine
+2ef9ac13-06c2-4796-a0a0-7410e817b207,Juices
+2ef9ac13-06c2-4796-a0a0-7410e817b207,Shots
+7dbd8ef7-81e7-46e9-a397-124f54bdd8a5,Milk Shakes 
+2ef9ac13-06c2-4796-a0a0-7410e817b207,Seamoss
+f980a2ee-576f-4c4b-957c-24e7ce869d76,RUSTIC FAVORITES
+f980a2ee-576f-4c4b-957c-24e7ce869d76,APPETIZERS
+f980a2ee-576f-4c4b-957c-24e7ce869d76,SANDWICHES
+c091f42e-44c7-4758-bed4-7b09cc6922b7,Coffee
+ae171c37-7f89-410b-a339-8d4a5011556e,Wine & Sake
+ae171c37-7f89-410b-a339-8d4a5011556e,Bottle Wine
+b72e7328-4193-485a-af6f-b7cbfc5d70a1,Sandwiches
+b72e7328-4193-485a-af6f-b7cbfc5d70a1,Pasta
+d88fbf22-ac58-40dc-b33d-217955fa41e8,Cakes
+d88fbf22-ac58-40dc-b33d-217955fa41e8,Handcrafted Chocolate Covered Pieces
+d88fbf22-ac58-40dc-b33d-217955fa41e8,Dark Chocolate Bars
+d88fbf22-ac58-40dc-b33d-217955fa41e8,Specialty
+d88fbf22-ac58-40dc-b33d-217955fa41e8,Hand Packaged Chocolates
+c08a98d1-3a8e-4a1b-ab5c-cf321cdeb322,Gluten-Free
+c08a98d1-3a8e-4a1b-ab5c-cf321cdeb322,Soups & Salads
+c08a98d1-3a8e-4a1b-ab5c-cf321cdeb322,Main Course
+c08a98d1-3a8e-4a1b-ab5c-cf321cdeb322,Vegan
+c08a98d1-3a8e-4a1b-ab5c-cf321cdeb322,Sides
+c08a98d1-3a8e-4a1b-ab5c-cf321cdeb322,Sushi Rolls
+546760c9-d01c-42b5-aaa9-aa9c41c7a17c,Pasta
+546760c9-d01c-42b5-aaa9-aa9c41c7a17c,Brunch
+546760c9-d01c-42b5-aaa9-aa9c41c7a17c,Burgers & Sandwiches
+546760c9-d01c-42b5-aaa9-aa9c41c7a17c,Alcoholic Drinks
+546760c9-d01c-42b5-aaa9-aa9c41c7a17c,Desserts
+546760c9-d01c-42b5-aaa9-aa9c41c7a17c,Coffee & Tea
+546760c9-d01c-42b5-aaa9-aa9c41c7a17c,Lunch Specials
+90932f8e-5a3f-4635-8112-5d6dddf695e2,Sides
+90932f8e-5a3f-4635-8112-5d6dddf695e2,Entrees
+90932f8e-5a3f-4635-8112-5d6dddf695e2,Soups & Salads
+90932f8e-5a3f-4635-8112-5d6dddf695e2,Burgers & Sandwiches
+90932f8e-5a3f-4635-8112-5d6dddf695e2,Dinner Specials
+90932f8e-5a3f-4635-8112-5d6dddf695e2,Appetizers
+90932f8e-5a3f-4635-8112-5d6dddf695e2,Raw Bar
+fd0d7e50-4f7c-47e0-a2f4-edccefe2e897,Breakfast
+fd0d7e50-4f7c-47e0-a2f4-edccefe2e897,Soups & Salads
+fd0d7e50-4f7c-47e0-a2f4-edccefe2e897,Kids Menu
+fd0d7e50-4f7c-47e0-a2f4-edccefe2e897,Coffee & Tea
+fd0d7e50-4f7c-47e0-a2f4-edccefe2e897,Alcoholic Drinks
+fd0d7e50-4f7c-47e0-a2f4-edccefe2e897,Meat & Poultry
+0e586481-a07d-47bc-a089-69057fe761a7,Raw Bar
+0e586481-a07d-47bc-a089-69057fe761a7,Meat & Poultry
+0e586481-a07d-47bc-a089-69057fe761a7,Seafood
+0e586481-a07d-47bc-a089-69057fe761a7,Gluten-Free
+0e586481-a07d-47bc-a089-69057fe761a7,Beverages
+0e586481-a07d-47bc-a089-69057fe761a7,Appetizers
+0e586481-a07d-47bc-a089-69057fe761a7,Brunch
+0e586481-a07d-47bc-a089-69057fe761a7,Healthy Options
+019254fa-3da4-4637-863b-d22158b3e37e,Raw Bar
+019254fa-3da4-4637-863b-d22158b3e37e,Coffee & Tea
+019254fa-3da4-4637-863b-d22158b3e37e,Burgers & Sandwiches
+019254fa-3da4-4637-863b-d22158b3e37e,Pizza
+019254fa-3da4-4637-863b-d22158b3e37e,Appetizers
+0e50b0f6-e0c8-4ec3-bdd3-7d5956d94ab5,Vegetarian
+0e50b0f6-e0c8-4ec3-bdd3-7d5956d94ab5,Soups & Salads
+0e50b0f6-e0c8-4ec3-bdd3-7d5956d94ab5,Healthy Options
+0e50b0f6-e0c8-4ec3-bdd3-7d5956d94ab5,Alcoholic Drinks
+0e50b0f6-e0c8-4ec3-bdd3-7d5956d94ab5,Desserts
+0e50b0f6-e0c8-4ec3-bdd3-7d5956d94ab5,Seafood
+0e50b0f6-e0c8-4ec3-bdd3-7d5956d94ab5,Raw Bar
+0e50b0f6-e0c8-4ec3-bdd3-7d5956d94ab5,Sushi Rolls
+0e50b0f6-e0c8-4ec3-bdd3-7d5956d94ab5,Meat & Poultry
+0e50b0f6-e0c8-4ec3-bdd3-7d5956d94ab5,Lunch Specials
+6e0523da-0f9b-4929-95d7-46650453e953,Vegetarian
+6e0523da-0f9b-4929-95d7-46650453e953,Lunch Specials
+6e0523da-0f9b-4929-95d7-46650453e953,Seafood
+6e0523da-0f9b-4929-95d7-46650453e953,Dinner Specials
+6e0523da-0f9b-4929-95d7-46650453e953,Pasta
+6e0523da-0f9b-4929-95d7-46650453e953,Pizza
+6e0523da-0f9b-4929-95d7-46650453e953,Breakfast
+6e0523da-0f9b-4929-95d7-46650453e953,Entrees
+f5111348-e467-4da8-9c43-953630692271,Sushi Rolls
+f5111348-e467-4da8-9c43-953630692271,Coffee & Tea
+f5111348-e467-4da8-9c43-953630692271,Pasta
+f5111348-e467-4da8-9c43-953630692271,Beverages
+f5111348-e467-4da8-9c43-953630692271,Vegan
+f5111348-e467-4da8-9c43-953630692271,Breakfast
+f5111348-e467-4da8-9c43-953630692271,Pizza
+85111cfa-7774-4e4a-be89-23408235d9f8,Vegan
+85111cfa-7774-4e4a-be89-23408235d9f8,Gluten-Free
+85111cfa-7774-4e4a-be89-23408235d9f8,Entrees
+85111cfa-7774-4e4a-be89-23408235d9f8,Desserts
+85111cfa-7774-4e4a-be89-23408235d9f8,Dinner Specials
+85111cfa-7774-4e4a-be89-23408235d9f8,Alcoholic Drinks
+85111cfa-7774-4e4a-be89-23408235d9f8,Main Course
+85111cfa-7774-4e4a-be89-23408235d9f8,Sushi Rolls
+1ab0e6a9-dc71-47cf-be08-467454e11481,Gluten-Free
+1ab0e6a9-dc71-47cf-be08-467454e11481,Pizza
+1ab0e6a9-dc71-47cf-be08-467454e11481,Seafood
+1ab0e6a9-dc71-47cf-be08-467454e11481,Desserts
+1ab0e6a9-dc71-47cf-be08-467454e11481,Raw Bar
+1ab0e6a9-dc71-47cf-be08-467454e11481,Vegetarian
+1ab0e6a9-dc71-47cf-be08-467454e11481,Soups & Salads
+1ab0e6a9-dc71-47cf-be08-467454e11481,Main Course
+c39cd115-e18c-4fe1-b94c-662b498cdf2e,Desserts
+c39cd115-e18c-4fe1-b94c-662b498cdf2e,Pizza
+c39cd115-e18c-4fe1-b94c-662b498cdf2e,Seafood
+c39cd115-e18c-4fe1-b94c-662b498cdf2e,Main Course
+c39cd115-e18c-4fe1-b94c-662b498cdf2e,Meat & Poultry
+c39cd115-e18c-4fe1-b94c-662b498cdf2e,Pasta
+665837b0-ad7d-4e06-b696-7858eb26ddb0,Sushi Rolls
+665837b0-ad7d-4e06-b696-7858eb26ddb0,Seafood
+665837b0-ad7d-4e06-b696-7858eb26ddb0,Kids Menu
+665837b0-ad7d-4e06-b696-7858eb26ddb0,Beverages
+665837b0-ad7d-4e06-b696-7858eb26ddb0,Coffee & Tea
+665837b0-ad7d-4e06-b696-7858eb26ddb0,Entrees
+a49658e5-19b5-40fa-bf5b-247696a04b0b,Vegetarian
+a49658e5-19b5-40fa-bf5b-247696a04b0b,Sides
+a49658e5-19b5-40fa-bf5b-247696a04b0b,Desserts
+a49658e5-19b5-40fa-bf5b-247696a04b0b,Coffee & Tea
+a49658e5-19b5-40fa-bf5b-247696a04b0b,Sushi Rolls
+a49658e5-19b5-40fa-bf5b-247696a04b0b,Pasta
+a49658e5-19b5-40fa-bf5b-247696a04b0b,Burgers & Sandwiches
+a49658e5-19b5-40fa-bf5b-247696a04b0b,Brunch
+a49658e5-19b5-40fa-bf5b-247696a04b0b,Entrees
+a49658e5-19b5-40fa-bf5b-247696a04b0b,Gluten-Free
+3abaa34a-b3ea-438d-8619-2bfb5241bb1f,Soups & Salads
+3abaa34a-b3ea-438d-8619-2bfb5241bb1f,Meat & Poultry
+3abaa34a-b3ea-438d-8619-2bfb5241bb1f,Dinner Specials
+3abaa34a-b3ea-438d-8619-2bfb5241bb1f,Breakfast
+3abaa34a-b3ea-438d-8619-2bfb5241bb1f,Pizza
+3abaa34a-b3ea-438d-8619-2bfb5241bb1f,Coffee & Tea
+3abaa34a-b3ea-438d-8619-2bfb5241bb1f,Burgers & Sandwiches
+3abaa34a-b3ea-438d-8619-2bfb5241bb1f,Healthy Options
+3abaa34a-b3ea-438d-8619-2bfb5241bb1f,Vegetarian
+b4ae6d18-5b10-4296-9486-9ba950a75ebb,Breakfast
+b4ae6d18-5b10-4296-9486-9ba950a75ebb,Soups & Salads
+b4ae6d18-5b10-4296-9486-9ba950a75ebb,Healthy Options
+b4ae6d18-5b10-4296-9486-9ba950a75ebb,Seafood
+b4ae6d18-5b10-4296-9486-9ba950a75ebb,Pasta
+b4ae6d18-5b10-4296-9486-9ba950a75ebb,Gluten-Free
+b4ae6d18-5b10-4296-9486-9ba950a75ebb,Lunch Specials
+b4ae6d18-5b10-4296-9486-9ba950a75ebb,Alcoholic Drinks
+b4ae6d18-5b10-4296-9486-9ba950a75ebb,Meat & Poultry
+b4ae6d18-5b10-4296-9486-9ba950a75ebb,Appetizers
+5bd3e429-d649-4c12-a48a-99e24b3b0cee,Desserts
+5bd3e429-d649-4c12-a48a-99e24b3b0cee,Healthy Options
+5bd3e429-d649-4c12-a48a-99e24b3b0cee,Dinner Specials
+5bd3e429-d649-4c12-a48a-99e24b3b0cee,Kids Menu
+5bd3e429-d649-4c12-a48a-99e24b3b0cee,Pasta
+5bd3e429-d649-4c12-a48a-99e24b3b0cee,Raw Bar
+5bd3e429-d649-4c12-a48a-99e24b3b0cee,Brunch
+5bd3e429-d649-4c12-a48a-99e24b3b0cee,Sides
+ee56ad3f-5f79-478f-bd87-9793a5ffa205,Pizza
+ee56ad3f-5f79-478f-bd87-9793a5ffa205,Appetizers
+ee56ad3f-5f79-478f-bd87-9793a5ffa205,Lunch Specials
+ee56ad3f-5f79-478f-bd87-9793a5ffa205,Burgers & Sandwiches
+ee56ad3f-5f79-478f-bd87-9793a5ffa205,Dinner Specials
+ee56ad3f-5f79-478f-bd87-9793a5ffa205,Pasta
+ee56ad3f-5f79-478f-bd87-9793a5ffa205,Desserts
+ee56ad3f-5f79-478f-bd87-9793a5ffa205,Sushi Rolls
+ee56ad3f-5f79-478f-bd87-9793a5ffa205,Sides
+5f89b799-eee5-48eb-ab06-ee238eb636f6,Breakfast
+5f89b799-eee5-48eb-ab06-ee238eb636f6,Main Course
+5f89b799-eee5-48eb-ab06-ee238eb636f6,Beverages
+5f89b799-eee5-48eb-ab06-ee238eb636f6,Pasta
+5f89b799-eee5-48eb-ab06-ee238eb636f6,Vegetarian
+5f89b799-eee5-48eb-ab06-ee238eb636f6,Pizza
+5f89b799-eee5-48eb-ab06-ee238eb636f6,Brunch
+5f89b799-eee5-48eb-ab06-ee238eb636f6,Healthy Options
+1dea5cee-2645-4f3b-b4fa-75f9313714ef,Alcoholic Drinks
+1dea5cee-2645-4f3b-b4fa-75f9313714ef,Vegan
+1dea5cee-2645-4f3b-b4fa-75f9313714ef,Kids Menu
+1dea5cee-2645-4f3b-b4fa-75f9313714ef,Coffee & Tea
+1dea5cee-2645-4f3b-b4fa-75f9313714ef,Meat & Poultry
+e1d33838-a89e-4118-9f5a-27af3021b429,Gluten-Free
+e1d33838-a89e-4118-9f5a-27af3021b429,Sides
+e1d33838-a89e-4118-9f5a-27af3021b429,Coffee & Tea
+e1d33838-a89e-4118-9f5a-27af3021b429,Burgers & Sandwiches
+e1d33838-a89e-4118-9f5a-27af3021b429,Dinner Specials
+857967fb-0d99-4339-8958-4b03deb6781a,Pasta
+857967fb-0d99-4339-8958-4b03deb6781a,Sides
+857967fb-0d99-4339-8958-4b03deb6781a,Beverages
+857967fb-0d99-4339-8958-4b03deb6781a,Lunch Specials
+857967fb-0d99-4339-8958-4b03deb6781a,Raw Bar
+857967fb-0d99-4339-8958-4b03deb6781a,Pizza
+857967fb-0d99-4339-8958-4b03deb6781a,Kids Menu
+857967fb-0d99-4339-8958-4b03deb6781a,Appetizers
+857967fb-0d99-4339-8958-4b03deb6781a,Desserts
+857967fb-0d99-4339-8958-4b03deb6781a,Entrees
+5175f9cd-21ff-44e9-9f38-07cacdb68064,Coffee & Tea
+5175f9cd-21ff-44e9-9f38-07cacdb68064,Gluten-Free
+5175f9cd-21ff-44e9-9f38-07cacdb68064,Raw Bar
+5175f9cd-21ff-44e9-9f38-07cacdb68064,Breakfast
+5175f9cd-21ff-44e9-9f38-07cacdb68064,Lunch Specials
+5175f9cd-21ff-44e9-9f38-07cacdb68064,Beverages
+5175f9cd-21ff-44e9-9f38-07cacdb68064,Desserts
+d57effc9-1904-479c-867d-c436ca8ca137,Burgers & Sandwiches
+d57effc9-1904-479c-867d-c436ca8ca137,Breakfast
+d57effc9-1904-479c-867d-c436ca8ca137,Soups & Salads
+d57effc9-1904-479c-867d-c436ca8ca137,Healthy Options
+d57effc9-1904-479c-867d-c436ca8ca137,Lunch Specials
+542abd80-041e-42be-b982-2dcf751458b7,Coffee & Tea
+542abd80-041e-42be-b982-2dcf751458b7,Pizza
+542abd80-041e-42be-b982-2dcf751458b7,Gluten-Free
+542abd80-041e-42be-b982-2dcf751458b7,Breakfast
+542abd80-041e-42be-b982-2dcf751458b7,Pasta
+542abd80-041e-42be-b982-2dcf751458b7,Raw Bar
+542abd80-041e-42be-b982-2dcf751458b7,Healthy Options
+9e357124-5e33-4aef-80de-9a6343c5ef2f,Beverages
+9e357124-5e33-4aef-80de-9a6343c5ef2f,Vegetarian
+9e357124-5e33-4aef-80de-9a6343c5ef2f,Alcoholic Drinks
+9e357124-5e33-4aef-80de-9a6343c5ef2f,Brunch
+9e357124-5e33-4aef-80de-9a6343c5ef2f,Meat & Poultry
+9e357124-5e33-4aef-80de-9a6343c5ef2f,Soups & Salads
+9e357124-5e33-4aef-80de-9a6343c5ef2f,Pasta
+9e357124-5e33-4aef-80de-9a6343c5ef2f,Burgers & Sandwiches
+9e357124-5e33-4aef-80de-9a6343c5ef2f,Healthy Options
+9e357124-5e33-4aef-80de-9a6343c5ef2f,Sushi Rolls
+e6d6e5f2-3f6e-408c-893b-e9740b14a82b,Kids Menu
+e6d6e5f2-3f6e-408c-893b-e9740b14a82b,Pizza
+e6d6e5f2-3f6e-408c-893b-e9740b14a82b,Healthy Options
+e6d6e5f2-3f6e-408c-893b-e9740b14a82b,Gluten-Free
+e6d6e5f2-3f6e-408c-893b-e9740b14a82b,Beverages
+e6d6e5f2-3f6e-408c-893b-e9740b14a82b,Soups & Salads
+e6d6e5f2-3f6e-408c-893b-e9740b14a82b,Appetizers
+e6d6e5f2-3f6e-408c-893b-e9740b14a82b,Pasta
+e7201a41-65d6-4e73-b651-228344e6b8fc,Alcoholic Drinks
+e7201a41-65d6-4e73-b651-228344e6b8fc,Healthy Options
+e7201a41-65d6-4e73-b651-228344e6b8fc,Meat & Poultry
+e7201a41-65d6-4e73-b651-228344e6b8fc,Pasta
+e7201a41-65d6-4e73-b651-228344e6b8fc,Burgers & Sandwiches
+e7201a41-65d6-4e73-b651-228344e6b8fc,Entrees
+e7201a41-65d6-4e73-b651-228344e6b8fc,Beverages
+e7201a41-65d6-4e73-b651-228344e6b8fc,Kids Menu
+e7201a41-65d6-4e73-b651-228344e6b8fc,Soups & Salads
+0e5775e0-4845-49d1-a239-839dee1253cc,Sides
+0e5775e0-4845-49d1-a239-839dee1253cc,Pizza
+0e5775e0-4845-49d1-a239-839dee1253cc,Gluten-Free
+0e5775e0-4845-49d1-a239-839dee1253cc,Healthy Options
+0e5775e0-4845-49d1-a239-839dee1253cc,Pasta
+0e5775e0-4845-49d1-a239-839dee1253cc,Dinner Specials
+0e5775e0-4845-49d1-a239-839dee1253cc,Raw Bar
+0e5775e0-4845-49d1-a239-839dee1253cc,Soups & Salads
+0e5775e0-4845-49d1-a239-839dee1253cc,Entrees
+d0a11f40-18bb-469a-b1c4-f0f920d5a8b3,Seafood
+d0a11f40-18bb-469a-b1c4-f0f920d5a8b3,Entrees
+d0a11f40-18bb-469a-b1c4-f0f920d5a8b3,Alcoholic Drinks
+d0a11f40-18bb-469a-b1c4-f0f920d5a8b3,Vegetarian
+d0a11f40-18bb-469a-b1c4-f0f920d5a8b3,Meat & Poultry
+d0a11f40-18bb-469a-b1c4-f0f920d5a8b3,Sides
+d0a11f40-18bb-469a-b1c4-f0f920d5a8b3,Breakfast
+d0a11f40-18bb-469a-b1c4-f0f920d5a8b3,Coffee & Tea
+d0a11f40-18bb-469a-b1c4-f0f920d5a8b3,Beverages
+d0a11f40-18bb-469a-b1c4-f0f920d5a8b3,Burgers & Sandwiches
+afd13298-5b4c-4202-bec7-8d2ff5764b69,Soups & Salads
+afd13298-5b4c-4202-bec7-8d2ff5764b69,Breakfast
+afd13298-5b4c-4202-bec7-8d2ff5764b69,Meat & Poultry
+afd13298-5b4c-4202-bec7-8d2ff5764b69,Seafood
+afd13298-5b4c-4202-bec7-8d2ff5764b69,Pizza
+afd13298-5b4c-4202-bec7-8d2ff5764b69,Vegan
+afd13298-5b4c-4202-bec7-8d2ff5764b69,Sides
+afd13298-5b4c-4202-bec7-8d2ff5764b69,Kids Menu
+a95873d5-de39-47ab-86d4-f94b145a663e,Pizza
+a95873d5-de39-47ab-86d4-f94b145a663e,Appetizers
+a95873d5-de39-47ab-86d4-f94b145a663e,Dinner Specials
+a95873d5-de39-47ab-86d4-f94b145a663e,Alcoholic Drinks
+a95873d5-de39-47ab-86d4-f94b145a663e,Brunch
+a95873d5-de39-47ab-86d4-f94b145a663e,Soups & Salads
+a95873d5-de39-47ab-86d4-f94b145a663e,Kids Menu
+21ee9e3d-57a8-4e9d-b23f-6f759c444b8f,Alcoholic Drinks
+21ee9e3d-57a8-4e9d-b23f-6f759c444b8f,Healthy Options
+21ee9e3d-57a8-4e9d-b23f-6f759c444b8f,Sushi Rolls
+21ee9e3d-57a8-4e9d-b23f-6f759c444b8f,Beverages
+21ee9e3d-57a8-4e9d-b23f-6f759c444b8f,Pasta
+21ee9e3d-57a8-4e9d-b23f-6f759c444b8f,Brunch
+21ee9e3d-57a8-4e9d-b23f-6f759c444b8f,Soups & Salads
+21ee9e3d-57a8-4e9d-b23f-6f759c444b8f,Desserts
+b0e52f0f-34dd-4391-bda0-84e1a01ab4ec,Sides
+b0e52f0f-34dd-4391-bda0-84e1a01ab4ec,Sushi Rolls
+b0e52f0f-34dd-4391-bda0-84e1a01ab4ec,Alcoholic Drinks
+b0e52f0f-34dd-4391-bda0-84e1a01ab4ec,Entrees
+b0e52f0f-34dd-4391-bda0-84e1a01ab4ec,Lunch Specials
+b0e52f0f-34dd-4391-bda0-84e1a01ab4ec,Desserts
+b0e52f0f-34dd-4391-bda0-84e1a01ab4ec,Raw Bar
+aa401962-f1c8-4997-947d-7963ac064861,Dinner Specials
+aa401962-f1c8-4997-947d-7963ac064861,Sides
+aa401962-f1c8-4997-947d-7963ac064861,Gluten-Free
+aa401962-f1c8-4997-947d-7963ac064861,Lunch Specials
+aa401962-f1c8-4997-947d-7963ac064861,Pizza
+aa401962-f1c8-4997-947d-7963ac064861,Meat & Poultry
+81a13fb2-e4aa-4145-a174-c742d8b32c36,Dinner Specials
+81a13fb2-e4aa-4145-a174-c742d8b32c36,Sushi Rolls
+81a13fb2-e4aa-4145-a174-c742d8b32c36,Pasta
+81a13fb2-e4aa-4145-a174-c742d8b32c36,Brunch
+81a13fb2-e4aa-4145-a174-c742d8b32c36,Pizza
+81a13fb2-e4aa-4145-a174-c742d8b32c36,Desserts
+81a13fb2-e4aa-4145-a174-c742d8b32c36,Entrees
+86eaa153-c8c3-43d0-8560-1cd6cc7b6908,Beverages
+86eaa153-c8c3-43d0-8560-1cd6cc7b6908,Vegan
+86eaa153-c8c3-43d0-8560-1cd6cc7b6908,Entrees
+86eaa153-c8c3-43d0-8560-1cd6cc7b6908,Appetizers
+86eaa153-c8c3-43d0-8560-1cd6cc7b6908,Pasta
+86eaa153-c8c3-43d0-8560-1cd6cc7b6908,Alcoholic Drinks
+86eaa153-c8c3-43d0-8560-1cd6cc7b6908,Kids Menu
+86eaa153-c8c3-43d0-8560-1cd6cc7b6908,Sushi Rolls
+844e0c6e-6a7e-41c1-98bd-109e42566986,Meat & Poultry
+844e0c6e-6a7e-41c1-98bd-109e42566986,Desserts
+844e0c6e-6a7e-41c1-98bd-109e42566986,Gluten-Free
+844e0c6e-6a7e-41c1-98bd-109e42566986,Main Course
+844e0c6e-6a7e-41c1-98bd-109e42566986,Brunch
+844e0c6e-6a7e-41c1-98bd-109e42566986,Appetizers
+844e0c6e-6a7e-41c1-98bd-109e42566986,Vegetarian
+844e0c6e-6a7e-41c1-98bd-109e42566986,Healthy Options
+844e0c6e-6a7e-41c1-98bd-109e42566986,Raw Bar
+844e0c6e-6a7e-41c1-98bd-109e42566986,Seafood
+be5545de-35f2-457a-9676-d9f754b4a9bb,Desserts
+be5545de-35f2-457a-9676-d9f754b4a9bb,Healthy Options
+be5545de-35f2-457a-9676-d9f754b4a9bb,Kids Menu
+be5545de-35f2-457a-9676-d9f754b4a9bb,Burgers & Sandwiches
+be5545de-35f2-457a-9676-d9f754b4a9bb,Raw Bar
+be5545de-35f2-457a-9676-d9f754b4a9bb,Lunch Specials
+b86b5ee9-53c8-47e0-a7c7-d335d84f2ca6,Burgers & Sandwiches
+b86b5ee9-53c8-47e0-a7c7-d335d84f2ca6,Vegan
+b86b5ee9-53c8-47e0-a7c7-d335d84f2ca6,Pasta
+b86b5ee9-53c8-47e0-a7c7-d335d84f2ca6,Seafood
+b86b5ee9-53c8-47e0-a7c7-d335d84f2ca6,Beverages
+b86b5ee9-53c8-47e0-a7c7-d335d84f2ca6,Lunch Specials
+b86b5ee9-53c8-47e0-a7c7-d335d84f2ca6,Sides
+b86b5ee9-53c8-47e0-a7c7-d335d84f2ca6,Soups & Salads
+b86b5ee9-53c8-47e0-a7c7-d335d84f2ca6,Gluten-Free
+1d087a0f-b257-4395-9168-818db35f7872,Vegan
+1d087a0f-b257-4395-9168-818db35f7872,Breakfast
+1d087a0f-b257-4395-9168-818db35f7872,Kids Menu
+1d087a0f-b257-4395-9168-818db35f7872,Seafood
+1d087a0f-b257-4395-9168-818db35f7872,Main Course
+4ea7efa6-1806-43b1-b2f4-e4a7f169fbcb,Gluten-Free
+4ea7efa6-1806-43b1-b2f4-e4a7f169fbcb,Breakfast
+4ea7efa6-1806-43b1-b2f4-e4a7f169fbcb,Vegan
+4ea7efa6-1806-43b1-b2f4-e4a7f169fbcb,Kids Menu
+4ea7efa6-1806-43b1-b2f4-e4a7f169fbcb,Desserts
+4ea7efa6-1806-43b1-b2f4-e4a7f169fbcb,Coffee & Tea
+4ea7efa6-1806-43b1-b2f4-e4a7f169fbcb,Pizza
+4ea7efa6-1806-43b1-b2f4-e4a7f169fbcb,Healthy Options
+4ea7efa6-1806-43b1-b2f4-e4a7f169fbcb,Brunch
+81c8fd68-adc6-4724-ae07-b9c177bad56c,Burgers & Sandwiches
+81c8fd68-adc6-4724-ae07-b9c177bad56c,Kids Menu
+81c8fd68-adc6-4724-ae07-b9c177bad56c,Gluten-Free
+81c8fd68-adc6-4724-ae07-b9c177bad56c,Dinner Specials
+81c8fd68-adc6-4724-ae07-b9c177bad56c,Healthy Options
+81c8fd68-adc6-4724-ae07-b9c177bad56c,Raw Bar
+5347f818-6639-4952-a9e2-7410a6318bc8,Pizza
+5347f818-6639-4952-a9e2-7410a6318bc8,Vegan
+5347f818-6639-4952-a9e2-7410a6318bc8,Entrees
+5347f818-6639-4952-a9e2-7410a6318bc8,Seafood
+5347f818-6639-4952-a9e2-7410a6318bc8,Alcoholic Drinks
+5347f818-6639-4952-a9e2-7410a6318bc8,Gluten-Free
+5347f818-6639-4952-a9e2-7410a6318bc8,Sides
+5347f818-6639-4952-a9e2-7410a6318bc8,Kids Menu
+5347f818-6639-4952-a9e2-7410a6318bc8,Desserts
+f6cc37a9-ceb0-4540-8c56-ce589197db15,Sushi Rolls
+f6cc37a9-ceb0-4540-8c56-ce589197db15,Sides
+f6cc37a9-ceb0-4540-8c56-ce589197db15,Pizza
+f6cc37a9-ceb0-4540-8c56-ce589197db15,Vegan
+f6cc37a9-ceb0-4540-8c56-ce589197db15,Vegetarian
+f6cc37a9-ceb0-4540-8c56-ce589197db15,Desserts
+054fc835-bd63-4181-a038-6e1948cffec3,Vegetarian
+054fc835-bd63-4181-a038-6e1948cffec3,Healthy Options
+054fc835-bd63-4181-a038-6e1948cffec3,Meat & Poultry
+054fc835-bd63-4181-a038-6e1948cffec3,Raw Bar
+054fc835-bd63-4181-a038-6e1948cffec3,Brunch
+054fc835-bd63-4181-a038-6e1948cffec3,Gluten-Free
+054fc835-bd63-4181-a038-6e1948cffec3,Lunch Specials
+5984a5ca-4410-4c2e-a1aa-69fc2d56f22e,Breakfast
+5984a5ca-4410-4c2e-a1aa-69fc2d56f22e,Burgers & Sandwiches
+5984a5ca-4410-4c2e-a1aa-69fc2d56f22e,Sides
+5984a5ca-4410-4c2e-a1aa-69fc2d56f22e,Kids Menu
+5984a5ca-4410-4c2e-a1aa-69fc2d56f22e,Entrees
+5984a5ca-4410-4c2e-a1aa-69fc2d56f22e,Coffee & Tea
+a307dc97-9cef-4535-9998-f23181f01aa0,Pizza
+a307dc97-9cef-4535-9998-f23181f01aa0,Breakfast
+a307dc97-9cef-4535-9998-f23181f01aa0,Seafood
+a307dc97-9cef-4535-9998-f23181f01aa0,Alcoholic Drinks
+a307dc97-9cef-4535-9998-f23181f01aa0,Entrees
+a307dc97-9cef-4535-9998-f23181f01aa0,Meat & Poultry
+a307dc97-9cef-4535-9998-f23181f01aa0,Dinner Specials
+ebf66591-4648-46d7-a1b4-ec075e9b3aeb,Appetizers
+ebf66591-4648-46d7-a1b4-ec075e9b3aeb,Dinner Specials
+ebf66591-4648-46d7-a1b4-ec075e9b3aeb,Kids Menu
+ebf66591-4648-46d7-a1b4-ec075e9b3aeb,Pasta
+ebf66591-4648-46d7-a1b4-ec075e9b3aeb,Pizza
+ebf66591-4648-46d7-a1b4-ec075e9b3aeb,Desserts
+df1d35ad-925b-49d0-aec4-d14433ae7aad,Raw Bar
+df1d35ad-925b-49d0-aec4-d14433ae7aad,Healthy Options
+df1d35ad-925b-49d0-aec4-d14433ae7aad,Alcoholic Drinks
+df1d35ad-925b-49d0-aec4-d14433ae7aad,Pizza
+df1d35ad-925b-49d0-aec4-d14433ae7aad,Sushi Rolls
+df1d35ad-925b-49d0-aec4-d14433ae7aad,Kids Menu
+920727d3-e837-43d9-af32-32444776ea71,Burgers & Sandwiches
+920727d3-e837-43d9-af32-32444776ea71,Soups & Salads
+920727d3-e837-43d9-af32-32444776ea71,Entrees
+920727d3-e837-43d9-af32-32444776ea71,Vegan
+920727d3-e837-43d9-af32-32444776ea71,Appetizers
+33d36393-bf5c-48fc-96c2-a313f680a4d5,Lunch Specials
+33d36393-bf5c-48fc-96c2-a313f680a4d5,Burgers & Sandwiches
+33d36393-bf5c-48fc-96c2-a313f680a4d5,Main Course
+33d36393-bf5c-48fc-96c2-a313f680a4d5,Alcoholic Drinks
+33d36393-bf5c-48fc-96c2-a313f680a4d5,Meat & Poultry
+33d36393-bf5c-48fc-96c2-a313f680a4d5,Raw Bar
+33d36393-bf5c-48fc-96c2-a313f680a4d5,Appetizers
+33d36393-bf5c-48fc-96c2-a313f680a4d5,Entrees
+33d36393-bf5c-48fc-96c2-a313f680a4d5,Pizza
+33d36393-bf5c-48fc-96c2-a313f680a4d5,Vegetarian
+1d9d35bf-ab2c-4fd8-a29b-a1b3cc36b653,Appetizers
+1d9d35bf-ab2c-4fd8-a29b-a1b3cc36b653,Gluten-Free
+1d9d35bf-ab2c-4fd8-a29b-a1b3cc36b653,Breakfast
+1d9d35bf-ab2c-4fd8-a29b-a1b3cc36b653,Sushi Rolls
+1d9d35bf-ab2c-4fd8-a29b-a1b3cc36b653,Kids Menu
+1d9d35bf-ab2c-4fd8-a29b-a1b3cc36b653,Entrees
+d4876794-e559-49f7-9b27-f2cb03ab7d34,Breakfast
+d4876794-e559-49f7-9b27-f2cb03ab7d34,Main Course
+d4876794-e559-49f7-9b27-f2cb03ab7d34,Dinner Specials
+d4876794-e559-49f7-9b27-f2cb03ab7d34,Desserts
+d4876794-e559-49f7-9b27-f2cb03ab7d34,Vegan
+79f94c3e-5f49-4bef-b4fb-25f3e204855e,Brunch
+79f94c3e-5f49-4bef-b4fb-25f3e204855e,Kids Menu
+79f94c3e-5f49-4bef-b4fb-25f3e204855e,Vegetarian
+79f94c3e-5f49-4bef-b4fb-25f3e204855e,Meat & Poultry
+79f94c3e-5f49-4bef-b4fb-25f3e204855e,Sides
+02f95b50-8b31-496e-95fe-4c0d97ec2719,Raw Bar
+02f95b50-8b31-496e-95fe-4c0d97ec2719,Gluten-Free
+02f95b50-8b31-496e-95fe-4c0d97ec2719,Appetizers
+02f95b50-8b31-496e-95fe-4c0d97ec2719,Sides
+02f95b50-8b31-496e-95fe-4c0d97ec2719,Breakfast
+02f95b50-8b31-496e-95fe-4c0d97ec2719,Pasta
+02f95b50-8b31-496e-95fe-4c0d97ec2719,Soups & Salads
+02f95b50-8b31-496e-95fe-4c0d97ec2719,Burgers & Sandwiches
+5e97320e-9afb-4a50-80a6-642ba06a013c,Alcoholic Drinks
+5e97320e-9afb-4a50-80a6-642ba06a013c,Gluten-Free
+5e97320e-9afb-4a50-80a6-642ba06a013c,Seafood
+5e97320e-9afb-4a50-80a6-642ba06a013c,Beverages
+5e97320e-9afb-4a50-80a6-642ba06a013c,Vegetarian
+5e97320e-9afb-4a50-80a6-642ba06a013c,Appetizers
+5e97320e-9afb-4a50-80a6-642ba06a013c,Soups & Salads
+5e97320e-9afb-4a50-80a6-642ba06a013c,Raw Bar
+5e97320e-9afb-4a50-80a6-642ba06a013c,Kids Menu
+a0ac91ae-e3fd-4a18-9191-5dcdca4b20f7,Dinner Specials
+a0ac91ae-e3fd-4a18-9191-5dcdca4b20f7,Gluten-Free
+a0ac91ae-e3fd-4a18-9191-5dcdca4b20f7,Sides
+a0ac91ae-e3fd-4a18-9191-5dcdca4b20f7,Brunch
+a0ac91ae-e3fd-4a18-9191-5dcdca4b20f7,Appetizers
+a0ac91ae-e3fd-4a18-9191-5dcdca4b20f7,Meat & Poultry
+a0ac91ae-e3fd-4a18-9191-5dcdca4b20f7,Alcoholic Drinks
+a0ac91ae-e3fd-4a18-9191-5dcdca4b20f7,Coffee & Tea
+a0ac91ae-e3fd-4a18-9191-5dcdca4b20f7,Beverages
+a0ac91ae-e3fd-4a18-9191-5dcdca4b20f7,Sushi Rolls
+63361997-52cd-4150-9add-1b1ce6f87754,Breakfast
+63361997-52cd-4150-9add-1b1ce6f87754,Lunch Specials
+63361997-52cd-4150-9add-1b1ce6f87754,Gluten-Free
+63361997-52cd-4150-9add-1b1ce6f87754,Burgers & Sandwiches
+63361997-52cd-4150-9add-1b1ce6f87754,Desserts
+63361997-52cd-4150-9add-1b1ce6f87754,Sushi Rolls
+63361997-52cd-4150-9add-1b1ce6f87754,Entrees
+63361997-52cd-4150-9add-1b1ce6f87754,Pizza
+63361997-52cd-4150-9add-1b1ce6f87754,Alcoholic Drinks
+63361997-52cd-4150-9add-1b1ce6f87754,Vegetarian
+dc2777a5-fb71-4d00-9c0d-082b5b080e08,Soups & Salads
+dc2777a5-fb71-4d00-9c0d-082b5b080e08,Beverages
+dc2777a5-fb71-4d00-9c0d-082b5b080e08,Sides
+dc2777a5-fb71-4d00-9c0d-082b5b080e08,Dinner Specials
+dc2777a5-fb71-4d00-9c0d-082b5b080e08,Healthy Options
+dc2777a5-fb71-4d00-9c0d-082b5b080e08,Kids Menu
+dc2777a5-fb71-4d00-9c0d-082b5b080e08,Lunch Specials
+dc2777a5-fb71-4d00-9c0d-082b5b080e08,Breakfast
+dc2777a5-fb71-4d00-9c0d-082b5b080e08,Pasta
+bcc479c7-a506-4267-8984-0b2a7c9f75f0,Vegan
+bcc479c7-a506-4267-8984-0b2a7c9f75f0,Kids Menu
+bcc479c7-a506-4267-8984-0b2a7c9f75f0,Desserts
+bcc479c7-a506-4267-8984-0b2a7c9f75f0,Dinner Specials
+bcc479c7-a506-4267-8984-0b2a7c9f75f0,Appetizers
+bcc479c7-a506-4267-8984-0b2a7c9f75f0,Gluten-Free
+bcc479c7-a506-4267-8984-0b2a7c9f75f0,Beverages
+bcc479c7-a506-4267-8984-0b2a7c9f75f0,Sushi Rolls
+bcc479c7-a506-4267-8984-0b2a7c9f75f0,Soups & Salads
+bcc479c7-a506-4267-8984-0b2a7c9f75f0,Alcoholic Drinks
+a3e4ae3b-b69d-48c2-934a-81495c2a3dff,Pizza
+a3e4ae3b-b69d-48c2-934a-81495c2a3dff,Entrees
+a3e4ae3b-b69d-48c2-934a-81495c2a3dff,Breakfast
+a3e4ae3b-b69d-48c2-934a-81495c2a3dff,Soups & Salads
+a3e4ae3b-b69d-48c2-934a-81495c2a3dff,Appetizers
+a3e4ae3b-b69d-48c2-934a-81495c2a3dff,Burgers & Sandwiches
+a3e4ae3b-b69d-48c2-934a-81495c2a3dff,Brunch
+a3e4ae3b-b69d-48c2-934a-81495c2a3dff,Sushi Rolls
+ea50d14c-8102-4d9b-964d-1b7fc84f9b4d,Meat & Poultry
+ea50d14c-8102-4d9b-964d-1b7fc84f9b4d,Soups & Salads
+ea50d14c-8102-4d9b-964d-1b7fc84f9b4d,Dinner Specials
+ea50d14c-8102-4d9b-964d-1b7fc84f9b4d,Gluten-Free
+ea50d14c-8102-4d9b-964d-1b7fc84f9b4d,Desserts
+ea50d14c-8102-4d9b-964d-1b7fc84f9b4d,Sides
+ea50d14c-8102-4d9b-964d-1b7fc84f9b4d,Vegetarian
+ea50d14c-8102-4d9b-964d-1b7fc84f9b4d,Coffee & Tea
+aed6b4a0-7949-47fc-89ba-090ae1ea5a01,Seafood
+aed6b4a0-7949-47fc-89ba-090ae1ea5a01,Beverages
+aed6b4a0-7949-47fc-89ba-090ae1ea5a01,Soups & Salads
+aed6b4a0-7949-47fc-89ba-090ae1ea5a01,Vegetarian
+aed6b4a0-7949-47fc-89ba-090ae1ea5a01,Alcoholic Drinks
+aed6b4a0-7949-47fc-89ba-090ae1ea5a01,Burgers & Sandwiches
+f3843b9d-7db5-41a9-a39b-cc049f9a62b0,Sides
+f3843b9d-7db5-41a9-a39b-cc049f9a62b0,Healthy Options
+f3843b9d-7db5-41a9-a39b-cc049f9a62b0,Main Course
+f3843b9d-7db5-41a9-a39b-cc049f9a62b0,Kids Menu
+f3843b9d-7db5-41a9-a39b-cc049f9a62b0,Lunch Specials
+f3843b9d-7db5-41a9-a39b-cc049f9a62b0,Pasta
+f3843b9d-7db5-41a9-a39b-cc049f9a62b0,Seafood
+3269a181-e2c8-498d-b069-fb00ed191140,Seafood
+3269a181-e2c8-498d-b069-fb00ed191140,Sushi Rolls
+3269a181-e2c8-498d-b069-fb00ed191140,Gluten-Free
+3269a181-e2c8-498d-b069-fb00ed191140,Healthy Options
+3269a181-e2c8-498d-b069-fb00ed191140,Desserts
+3269a181-e2c8-498d-b069-fb00ed191140,Burgers & Sandwiches
+3269a181-e2c8-498d-b069-fb00ed191140,Sides
+3269a181-e2c8-498d-b069-fb00ed191140,Beverages
+3269a181-e2c8-498d-b069-fb00ed191140,Soups & Salads
+a693c4ff-1520-429f-91da-6c25183cdd20,Soups & Salads
+a693c4ff-1520-429f-91da-6c25183cdd20,Seafood
+a693c4ff-1520-429f-91da-6c25183cdd20,Gluten-Free
+a693c4ff-1520-429f-91da-6c25183cdd20,Kids Menu
+a693c4ff-1520-429f-91da-6c25183cdd20,Main Course
+a693c4ff-1520-429f-91da-6c25183cdd20,Appetizers
+a693c4ff-1520-429f-91da-6c25183cdd20,Desserts
+a693c4ff-1520-429f-91da-6c25183cdd20,Vegan
+a693c4ff-1520-429f-91da-6c25183cdd20,Pizza
+a693c4ff-1520-429f-91da-6c25183cdd20,Coffee & Tea
+0624e4bd-313f-43dc-a22b-2c7b7ec63ea7,Healthy Options
+0624e4bd-313f-43dc-a22b-2c7b7ec63ea7,Vegan
+0624e4bd-313f-43dc-a22b-2c7b7ec63ea7,Pasta
+0624e4bd-313f-43dc-a22b-2c7b7ec63ea7,Main Course
+0624e4bd-313f-43dc-a22b-2c7b7ec63ea7,Meat & Poultry
+0624e4bd-313f-43dc-a22b-2c7b7ec63ea7,Desserts
+0624e4bd-313f-43dc-a22b-2c7b7ec63ea7,Alcoholic Drinks
+0624e4bd-313f-43dc-a22b-2c7b7ec63ea7,Coffee & Tea
+0624e4bd-313f-43dc-a22b-2c7b7ec63ea7,Sides
+ecd5b64a-0476-49dc-99f3-04ed9100b8f6,Seafood
+ecd5b64a-0476-49dc-99f3-04ed9100b8f6,Desserts
+ecd5b64a-0476-49dc-99f3-04ed9100b8f6,Entrees
+ecd5b64a-0476-49dc-99f3-04ed9100b8f6,Main Course
+ecd5b64a-0476-49dc-99f3-04ed9100b8f6,Appetizers
+ecd5b64a-0476-49dc-99f3-04ed9100b8f6,Lunch Specials
+ecd5b64a-0476-49dc-99f3-04ed9100b8f6,Beverages
+ecd5b64a-0476-49dc-99f3-04ed9100b8f6,Soups & Salads
+ecd5b64a-0476-49dc-99f3-04ed9100b8f6,Meat & Poultry
+ecd5b64a-0476-49dc-99f3-04ed9100b8f6,Pasta
+59e9c4ad-900c-4b44-bb17-03e6340cb65a,Sushi Rolls
+59e9c4ad-900c-4b44-bb17-03e6340cb65a,Kids Menu
+59e9c4ad-900c-4b44-bb17-03e6340cb65a,Appetizers
+59e9c4ad-900c-4b44-bb17-03e6340cb65a,Soups & Salads
+59e9c4ad-900c-4b44-bb17-03e6340cb65a,Main Course
+59e9c4ad-900c-4b44-bb17-03e6340cb65a,Pasta
+59e9c4ad-900c-4b44-bb17-03e6340cb65a,Lunch Specials
+59e9c4ad-900c-4b44-bb17-03e6340cb65a,Healthy Options
+59e9c4ad-900c-4b44-bb17-03e6340cb65a,Meat & Poultry
+59e9c4ad-900c-4b44-bb17-03e6340cb65a,Vegan
+52f23cd8-c196-4ee0-8ae2-af0fb3271520,Pasta
+52f23cd8-c196-4ee0-8ae2-af0fb3271520,Desserts
+52f23cd8-c196-4ee0-8ae2-af0fb3271520,Sides
+52f23cd8-c196-4ee0-8ae2-af0fb3271520,Brunch
+52f23cd8-c196-4ee0-8ae2-af0fb3271520,Raw Bar
+52f23cd8-c196-4ee0-8ae2-af0fb3271520,Kids Menu
+8ae8fe33-425d-4e36-a7c7-5033d9ea0a1b,Coffee & Tea
+8ae8fe33-425d-4e36-a7c7-5033d9ea0a1b,Pasta
+8ae8fe33-425d-4e36-a7c7-5033d9ea0a1b,Burgers & Sandwiches
+8ae8fe33-425d-4e36-a7c7-5033d9ea0a1b,Beverages
+8ae8fe33-425d-4e36-a7c7-5033d9ea0a1b,Meat & Poultry
+8ae8fe33-425d-4e36-a7c7-5033d9ea0a1b,Soups & Salads
+8ae8fe33-425d-4e36-a7c7-5033d9ea0a1b,Lunch Specials
+8ae8fe33-425d-4e36-a7c7-5033d9ea0a1b,Dinner Specials
+1c6af4eb-c7a6-4f33-96e4-cf19b05de701,Lunch Specials
+1c6af4eb-c7a6-4f33-96e4-cf19b05de701,Coffee & Tea
+1c6af4eb-c7a6-4f33-96e4-cf19b05de701,Main Course
+1c6af4eb-c7a6-4f33-96e4-cf19b05de701,Alcoholic Drinks
+1c6af4eb-c7a6-4f33-96e4-cf19b05de701,Vegan
+1c6af4eb-c7a6-4f33-96e4-cf19b05de701,Sushi Rolls
+1c6af4eb-c7a6-4f33-96e4-cf19b05de701,Kids Menu
+81418775-031a-4983-be19-e5d9e78f1ce3,Pizza
+81418775-031a-4983-be19-e5d9e78f1ce3,Sides
+81418775-031a-4983-be19-e5d9e78f1ce3,Pasta
+81418775-031a-4983-be19-e5d9e78f1ce3,Burgers & Sandwiches
+81418775-031a-4983-be19-e5d9e78f1ce3,Desserts
+81418775-031a-4983-be19-e5d9e78f1ce3,Sushi Rolls
+81418775-031a-4983-be19-e5d9e78f1ce3,Brunch
+81418775-031a-4983-be19-e5d9e78f1ce3,Vegetarian
+81418775-031a-4983-be19-e5d9e78f1ce3,Kids Menu
+81418775-031a-4983-be19-e5d9e78f1ce3,Soups & Salads
+2636eecb-d03a-420b-b281-e4867361e0c5,Vegan
+2636eecb-d03a-420b-b281-e4867361e0c5,Raw Bar
+2636eecb-d03a-420b-b281-e4867361e0c5,Meat & Poultry
+2636eecb-d03a-420b-b281-e4867361e0c5,Soups & Salads
+2636eecb-d03a-420b-b281-e4867361e0c5,Alcoholic Drinks
+2636eecb-d03a-420b-b281-e4867361e0c5,Vegetarian
+2636eecb-d03a-420b-b281-e4867361e0c5,Pizza
+2636eecb-d03a-420b-b281-e4867361e0c5,Coffee & Tea
+2636eecb-d03a-420b-b281-e4867361e0c5,Pasta
+2636eecb-d03a-420b-b281-e4867361e0c5,Seafood
+e2e2dfeb-b753-4fd0-9056-8ea6b9a44796,Raw Bar
+e2e2dfeb-b753-4fd0-9056-8ea6b9a44796,Pizza
+e2e2dfeb-b753-4fd0-9056-8ea6b9a44796,Healthy Options
+e2e2dfeb-b753-4fd0-9056-8ea6b9a44796,Soups & Salads
+e2e2dfeb-b753-4fd0-9056-8ea6b9a44796,Entrees
+e2e2dfeb-b753-4fd0-9056-8ea6b9a44796,Pasta
+e2e2dfeb-b753-4fd0-9056-8ea6b9a44796,Appetizers
+9cda519b-e42b-4db5-9c93-2bbf22cd730d,Breakfast
+9cda519b-e42b-4db5-9c93-2bbf22cd730d,Entrees
+9cda519b-e42b-4db5-9c93-2bbf22cd730d,Soups & Salads
+9cda519b-e42b-4db5-9c93-2bbf22cd730d,Coffee & Tea
+9cda519b-e42b-4db5-9c93-2bbf22cd730d,Lunch Specials
+9cda519b-e42b-4db5-9c93-2bbf22cd730d,Kids Menu
+9cda519b-e42b-4db5-9c93-2bbf22cd730d,Pizza
+9cda519b-e42b-4db5-9c93-2bbf22cd730d,Pasta
+638a3313-af47-4d3b-b545-7d011d2e5031,Alcoholic Drinks
+638a3313-af47-4d3b-b545-7d011d2e5031,Desserts
+638a3313-af47-4d3b-b545-7d011d2e5031,Meat & Poultry
+638a3313-af47-4d3b-b545-7d011d2e5031,Dinner Specials
+638a3313-af47-4d3b-b545-7d011d2e5031,Beverages
+638a3313-af47-4d3b-b545-7d011d2e5031,Raw Bar
+638a3313-af47-4d3b-b545-7d011d2e5031,Breakfast
+638a3313-af47-4d3b-b545-7d011d2e5031,Healthy Options
+638a3313-af47-4d3b-b545-7d011d2e5031,Gluten-Free
+638a3313-af47-4d3b-b545-7d011d2e5031,Seafood
+b65df742-100d-4c8c-a08a-2a94b2dfe7f8,Pasta
+b65df742-100d-4c8c-a08a-2a94b2dfe7f8,Soups & Salads
+b65df742-100d-4c8c-a08a-2a94b2dfe7f8,Sides
+b65df742-100d-4c8c-a08a-2a94b2dfe7f8,Entrees
+b65df742-100d-4c8c-a08a-2a94b2dfe7f8,Main Course
+b65df742-100d-4c8c-a08a-2a94b2dfe7f8,Lunch Specials
+b65df742-100d-4c8c-a08a-2a94b2dfe7f8,Dinner Specials
+b65df742-100d-4c8c-a08a-2a94b2dfe7f8,Appetizers
+b65df742-100d-4c8c-a08a-2a94b2dfe7f8,Sushi Rolls
+4123768a-2ab3-430b-84cd-4ebdadcb7aac,Seafood
+4123768a-2ab3-430b-84cd-4ebdadcb7aac,Raw Bar
+4123768a-2ab3-430b-84cd-4ebdadcb7aac,Sushi Rolls
+4123768a-2ab3-430b-84cd-4ebdadcb7aac,Gluten-Free
+4123768a-2ab3-430b-84cd-4ebdadcb7aac,Soups & Salads
+4123768a-2ab3-430b-84cd-4ebdadcb7aac,Meat & Poultry
+4123768a-2ab3-430b-84cd-4ebdadcb7aac,Brunch
+dab4f716-172d-4abb-b422-da820fe31ab3,Desserts
+dab4f716-172d-4abb-b422-da820fe31ab3,Breakfast
+dab4f716-172d-4abb-b422-da820fe31ab3,Coffee & Tea
+dab4f716-172d-4abb-b422-da820fe31ab3,Sides
+dab4f716-172d-4abb-b422-da820fe31ab3,Soups & Salads
+dab4f716-172d-4abb-b422-da820fe31ab3,Vegetarian
+bf49013d-031c-4d26-aee1-aea83f166495,Main Course
+bf49013d-031c-4d26-aee1-aea83f166495,Vegan
+bf49013d-031c-4d26-aee1-aea83f166495,Beverages
+bf49013d-031c-4d26-aee1-aea83f166495,Soups & Salads
+bf49013d-031c-4d26-aee1-aea83f166495,Entrees
+bf49013d-031c-4d26-aee1-aea83f166495,Appetizers
+bf49013d-031c-4d26-aee1-aea83f166495,Burgers & Sandwiches
+bf49013d-031c-4d26-aee1-aea83f166495,Sushi Rolls
+bf49013d-031c-4d26-aee1-aea83f166495,Kids Menu
+40307fac-0505-4c89-9f9a-1dcda72749c9,Sides
+40307fac-0505-4c89-9f9a-1dcda72749c9,Meat & Poultry
+40307fac-0505-4c89-9f9a-1dcda72749c9,Pizza
+40307fac-0505-4c89-9f9a-1dcda72749c9,Beverages
+40307fac-0505-4c89-9f9a-1dcda72749c9,Seafood
+40307fac-0505-4c89-9f9a-1dcda72749c9,Pasta
+7407a64e-4a9c-4bc1-a9e5-cd57f1d32182,Kids Menu
+7407a64e-4a9c-4bc1-a9e5-cd57f1d32182,Breakfast
+7407a64e-4a9c-4bc1-a9e5-cd57f1d32182,Alcoholic Drinks
+7407a64e-4a9c-4bc1-a9e5-cd57f1d32182,Coffee & Tea
+7407a64e-4a9c-4bc1-a9e5-cd57f1d32182,Main Course
+7407a64e-4a9c-4bc1-a9e5-cd57f1d32182,Pizza
+919bfbbd-4284-41d9-927f-be56c972d3b4,Desserts
+919bfbbd-4284-41d9-927f-be56c972d3b4,Gluten-Free
+919bfbbd-4284-41d9-927f-be56c972d3b4,Seafood
+919bfbbd-4284-41d9-927f-be56c972d3b4,Appetizers
+919bfbbd-4284-41d9-927f-be56c972d3b4,Beverages
+919bfbbd-4284-41d9-927f-be56c972d3b4,Vegetarian
+919bfbbd-4284-41d9-927f-be56c972d3b4,Burgers & Sandwiches
+bc478dbd-7456-4462-8578-447efa566235,Dinner Specials
+bc478dbd-7456-4462-8578-447efa566235,Desserts
+bc478dbd-7456-4462-8578-447efa566235,Lunch Specials
+bc478dbd-7456-4462-8578-447efa566235,Sushi Rolls
+bc478dbd-7456-4462-8578-447efa566235,Healthy Options
+bc478dbd-7456-4462-8578-447efa566235,Coffee & Tea
+dbe8ae6b-2354-458c-997f-8d368ba00904,Main Course
+dbe8ae6b-2354-458c-997f-8d368ba00904,Brunch
+dbe8ae6b-2354-458c-997f-8d368ba00904,Coffee & Tea
+dbe8ae6b-2354-458c-997f-8d368ba00904,Pizza
+dbe8ae6b-2354-458c-997f-8d368ba00904,Sushi Rolls
+dbe8ae6b-2354-458c-997f-8d368ba00904,Vegetarian
+85f7857f-b84f-4297-96f8-728c32a9703a,Burgers & Sandwiches
+85f7857f-b84f-4297-96f8-728c32a9703a,Healthy Options
+85f7857f-b84f-4297-96f8-728c32a9703a,Appetizers
+85f7857f-b84f-4297-96f8-728c32a9703a,Beverages
+85f7857f-b84f-4297-96f8-728c32a9703a,Coffee & Tea
+1316e514-1470-4610-80e4-1d5f08da1fb2,Entrees
+1316e514-1470-4610-80e4-1d5f08da1fb2,Sides
+1316e514-1470-4610-80e4-1d5f08da1fb2,Soups & Salads
+1316e514-1470-4610-80e4-1d5f08da1fb2,Beverages
+1316e514-1470-4610-80e4-1d5f08da1fb2,Dinner Specials
+1316e514-1470-4610-80e4-1d5f08da1fb2,Burgers & Sandwiches
+1316e514-1470-4610-80e4-1d5f08da1fb2,Sushi Rolls
+1316e514-1470-4610-80e4-1d5f08da1fb2,Pizza
+1316e514-1470-4610-80e4-1d5f08da1fb2,Appetizers
+67479a0d-18d0-4fe0-9fdf-5ac2d220eed0,Appetizers
+67479a0d-18d0-4fe0-9fdf-5ac2d220eed0,Gluten-Free
+67479a0d-18d0-4fe0-9fdf-5ac2d220eed0,Main Course
+67479a0d-18d0-4fe0-9fdf-5ac2d220eed0,Meat & Poultry
+67479a0d-18d0-4fe0-9fdf-5ac2d220eed0,Soups & Salads
+24c269d4-0f1d-4aaa-95a7-b4d13315de82,Kids Menu
+24c269d4-0f1d-4aaa-95a7-b4d13315de82,Seafood
+24c269d4-0f1d-4aaa-95a7-b4d13315de82,Vegan
+24c269d4-0f1d-4aaa-95a7-b4d13315de82,Lunch Specials
+24c269d4-0f1d-4aaa-95a7-b4d13315de82,Coffee & Tea
+24c269d4-0f1d-4aaa-95a7-b4d13315de82,Raw Bar
+24c269d4-0f1d-4aaa-95a7-b4d13315de82,Breakfast
+24c269d4-0f1d-4aaa-95a7-b4d13315de82,Gluten-Free
+24c269d4-0f1d-4aaa-95a7-b4d13315de82,Pizza
+24c269d4-0f1d-4aaa-95a7-b4d13315de82,Entrees
+9915efc5-8b73-4c62-ac77-12e122d83ccf,Raw Bar
+9915efc5-8b73-4c62-ac77-12e122d83ccf,Pasta
+9915efc5-8b73-4c62-ac77-12e122d83ccf,Vegan
+9915efc5-8b73-4c62-ac77-12e122d83ccf,Pizza
+9915efc5-8b73-4c62-ac77-12e122d83ccf,Sides
+9915efc5-8b73-4c62-ac77-12e122d83ccf,Breakfast
+4eb8111f-bade-4a1e-86fd-b57ac8bbef60,Sushi Rolls
+4eb8111f-bade-4a1e-86fd-b57ac8bbef60,Lunch Specials
+4eb8111f-bade-4a1e-86fd-b57ac8bbef60,Entrees
+4eb8111f-bade-4a1e-86fd-b57ac8bbef60,Healthy Options
+4eb8111f-bade-4a1e-86fd-b57ac8bbef60,Appetizers
+4eb8111f-bade-4a1e-86fd-b57ac8bbef60,Kids Menu
+4eb8111f-bade-4a1e-86fd-b57ac8bbef60,Vegetarian
+4eb8111f-bade-4a1e-86fd-b57ac8bbef60,Desserts
+586ff4f7-3fb9-4baf-a101-69ad78e3b3c5,Pasta
+586ff4f7-3fb9-4baf-a101-69ad78e3b3c5,Sides
+586ff4f7-3fb9-4baf-a101-69ad78e3b3c5,Coffee & Tea
+586ff4f7-3fb9-4baf-a101-69ad78e3b3c5,Sushi Rolls
+586ff4f7-3fb9-4baf-a101-69ad78e3b3c5,Appetizers
+586ff4f7-3fb9-4baf-a101-69ad78e3b3c5,Vegetarian
+586ff4f7-3fb9-4baf-a101-69ad78e3b3c5,Kids Menu
+586ff4f7-3fb9-4baf-a101-69ad78e3b3c5,Desserts
+6010536c-a363-472c-9dd2-5b5535916265,Desserts
+6010536c-a363-472c-9dd2-5b5535916265,Coffee & Tea
+6010536c-a363-472c-9dd2-5b5535916265,Lunch Specials
+6010536c-a363-472c-9dd2-5b5535916265,Breakfast
+6010536c-a363-472c-9dd2-5b5535916265,Healthy Options
+6010536c-a363-472c-9dd2-5b5535916265,Sushi Rolls
+6010536c-a363-472c-9dd2-5b5535916265,Entrees
+6010536c-a363-472c-9dd2-5b5535916265,Brunch
+6010536c-a363-472c-9dd2-5b5535916265,Beverages
+6010536c-a363-472c-9dd2-5b5535916265,Main Course
+f110c820-2308-46ab-88de-ce8a96e27328,Vegan
+f110c820-2308-46ab-88de-ce8a96e27328,Beverages
+f110c820-2308-46ab-88de-ce8a96e27328,Breakfast
+f110c820-2308-46ab-88de-ce8a96e27328,Coffee & Tea
+f110c820-2308-46ab-88de-ce8a96e27328,Appetizers
+f110c820-2308-46ab-88de-ce8a96e27328,Lunch Specials
+f110c820-2308-46ab-88de-ce8a96e27328,Soups & Salads
+f110c820-2308-46ab-88de-ce8a96e27328,Alcoholic Drinks
+9ea287af-c9f0-4218-a09a-a1e13456141e,Meat & Poultry
+9ea287af-c9f0-4218-a09a-a1e13456141e,Pizza
+9ea287af-c9f0-4218-a09a-a1e13456141e,Sushi Rolls
+9ea287af-c9f0-4218-a09a-a1e13456141e,Beverages
+9ea287af-c9f0-4218-a09a-a1e13456141e,Coffee & Tea
+495db614-f7f4-4b7c-a5dd-1d1b0ef58ee0,Lunch Specials
+495db614-f7f4-4b7c-a5dd-1d1b0ef58ee0,Burgers & Sandwiches
+495db614-f7f4-4b7c-a5dd-1d1b0ef58ee0,Main Course
+495db614-f7f4-4b7c-a5dd-1d1b0ef58ee0,Seafood
+495db614-f7f4-4b7c-a5dd-1d1b0ef58ee0,Appetizers
+495db614-f7f4-4b7c-a5dd-1d1b0ef58ee0,Healthy Options
+495db614-f7f4-4b7c-a5dd-1d1b0ef58ee0,Alcoholic Drinks
+495db614-f7f4-4b7c-a5dd-1d1b0ef58ee0,Raw Bar
+495db614-f7f4-4b7c-a5dd-1d1b0ef58ee0,Beverages
+495db614-f7f4-4b7c-a5dd-1d1b0ef58ee0,Pasta
+dbae0a0f-5cb6-4dbc-833e-6c8629cf567e,Vegetarian
+dbae0a0f-5cb6-4dbc-833e-6c8629cf567e,Seafood
+dbae0a0f-5cb6-4dbc-833e-6c8629cf567e,Pasta
+dbae0a0f-5cb6-4dbc-833e-6c8629cf567e,Main Course
+dbae0a0f-5cb6-4dbc-833e-6c8629cf567e,Sushi Rolls
+dbae0a0f-5cb6-4dbc-833e-6c8629cf567e,Pizza
+dbae0a0f-5cb6-4dbc-833e-6c8629cf567e,Coffee & Tea
+dbae0a0f-5cb6-4dbc-833e-6c8629cf567e,Breakfast
+dbae0a0f-5cb6-4dbc-833e-6c8629cf567e,Kids Menu
+3dfad23b-fca8-4a0f-b7df-487087d4ae4d,Beverages
+3dfad23b-fca8-4a0f-b7df-487087d4ae4d,Pasta
+3dfad23b-fca8-4a0f-b7df-487087d4ae4d,Desserts
+3dfad23b-fca8-4a0f-b7df-487087d4ae4d,Meat & Poultry
+3dfad23b-fca8-4a0f-b7df-487087d4ae4d,Burgers & Sandwiches
+3dfad23b-fca8-4a0f-b7df-487087d4ae4d,Brunch
+3dfad23b-fca8-4a0f-b7df-487087d4ae4d,Main Course
