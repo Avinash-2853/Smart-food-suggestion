@@ -17,14 +17,14 @@ async def qa_critic_node(state: AgentState):
     
     prompt = ChatPromptTemplate.from_messages([
         ("system", CRITIC_SYSTEM_PROMPT),
-        ("human", "User Profile: {profile}\nMenu Draft: {draft}")
+        ("human", "User Profile: {profile}\nSelected Items: {items}")
     ])
     
     chain = prompt | llm
     
     response = await chain.ainvoke({
         "profile": state["user_profile"],
-        "draft": state["menu_draft"]
+        "items": state["current_suggestions"]
     })
     
     try:

@@ -11,7 +11,7 @@ def router(state: AgentState):
     """
     if state["approved"] or state["iteration_count"] >= 3:
         return "generator"
-    return "search"
+    return "profiler"
 
 def create_food_suggestion_graph():
     # Initialize the graph with the state schema
@@ -19,22 +19,20 @@ def create_food_suggestion_graph():
 
     # 1. Add Nodes
     workflow.add_node("profiler", user_profiler_node)
-    workflow.add_node("search", search_rag_node)
     workflow.add_node("critic", qa_critic_node)
     workflow.add_node("generator", menu_generator_node)
 
-    # 2. Define Edges (The hard-wired flow)
+    # 2. Define Edges
     workflow.add_edge(START, "profiler")
-    workflow.add_edge("profiler", "search")
-    workflow.add_edge("search", "critic")
+    workflow.add_edge("profiler", "critic")
     
-    # 3. Add Conditional Edges (The intelligent loop)
+    # 3. Add Conditional Edges
     workflow.add_conditional_edges(
         "critic",
         router,
         {
             "generator": "generator",
-            "search": "search"
+            "profiler": "profiler"
         }
     )
     

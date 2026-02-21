@@ -1,51 +1,89 @@
 import json
+import time
 from langchain_core.prompts import ChatPromptTemplate
 from app.state import AgentState
 from app.ai.llm.gemini_client import gemini_client
 from app.ai.prompts.templates import PROFILER_SYSTEM_PROMPT
 from app.core.logger import logger
-
-import time
+from app.ai.tools.rag_tool import search_food_items
 
 async def user_profiler_node(state: AgentState):
     """
-    Extracts structured constraints from the user query using Gemini.
+    Profiler agent that uses RAG tool and handles feedback from Critic.
     """
     start_time = time.time()
-    logger.info(f"🧠 Profiling user query: {state['user_query']}")
+    logger.info(f"🧠 Profiler Agent started for query: {state['user_query']}")
     
     llm = gemini_client.get_llm()
     
+    # Bind the tool to the LLM
+    llm_with_tools = llm.bind_tools([search_food_items])
+    
+    # Prepare the context (including feedback if any)
+    feedback_context = ""
+    if state.get("critic_feedback"):
+        feedback_context = f"\n\nREVISION_FEEDBACK FROM CRITIC: {state['critic_feedback']}"
+        logger.info(f"🔄 Profiler received feedback: {state['critic_feedback']}")
+
     prompt = ChatPromptTemplate.from_messages([
         ("system", PROFILER_SYSTEM_PROMPT),
-        ("human", "{query}")
+        ("human", "User Query: {query}{feedback}")
     ])
     
-    chain = prompt | llm
+    # We'll use a simple loop for tool calling
+    messages = prompt.format_messages(query=state["user_query"], feedback=feedback_context)
     
-    response = await chain.ainvoke({"query": state["user_query"]})
+    # 1. First call to LLM
+    response = await llm_with_tools.ainvoke(messages)
+    messages.append(response)
     
+    # 2. Check for tool calls and execute
+    if response.tool_calls:
+        for tool_call in response.tool_calls:
+            if tool_call["name"] == "search_food_items":
+                tool_result = search_food_items.invoke(tool_call["args"])
+                # Add tool response to messages
+                messages.append({
+                    "role": "tool",
+                    "content": json.dumps(tool_result),
+                    "tool_call_id": tool_call["id"]
+                })
+        
+        # 3. Final call to get the structured JSON output
+        response = await llm_with_tools.ainvoke(messages)
+        content = response.content
+    else:
+        content = response.content
+
+    # Parse the final JSON from content
     try:
-        # Clean response content for JSON parsing
-        content = response.content.replace("```json", "").replace("```", "").strip()
-        profile = json.loads(content)
-        logger.info(f"✅ Extracted profile: {profile}")
-    except Exception as e:
-        logger.error(f"❌ Error parsing profile: {e}")
+        content_clean = content.replace("```json", "").replace("```", "").strip()
+        result_json = json.loads(content_clean)
+        
+        # Extract profile and items
         profile = {
-            "budget": None,
-            "party_size": 1,
-            "dietary_tags": [],
-            "cuisine_preferences": [],
-            "has_health_goal": False,
-            "location": None,
-            "search_query": state["user_query"]
+            "budget": result_json.get("budget"),
+            "party_size": result_json.get("party_size", 1),
+            "dietary_tags": result_json.get("dietary_tags", []),
+            "cuisine_preferences": result_json.get("cuisine_preferences", []),
+            "has_health_goal": result_json.get("has_health_goal", False),
+            "location": result_json.get("location"),
+            "search_query": result_json.get("search_query")
         }
+        items = result_json.get("selected_items", [])
+        
+    except Exception as e:
+        logger.error(f"❌ Error parsing Profiler Agent JSON: {e}")
+        # Fallback
+        profile = state.get("user_profile", {})
+        items = state.get("current_suggestions", [])
 
     duration = time.time() - start_time
-    logger.info(f"✅ Profiling complete in {duration:.2f}s")
+    logger.info(f"✅ Profiler complete in {duration:.2f}s with {len(items)} items.")
 
     return {
         "user_profile": profile,
-        "iteration_count": state.get("iteration_count", 0) + 1
+        "current_suggestions": items,
+        "iteration_count": state.get("iteration_count", 0) + 1,
+        "critic_feedback": None # Reset feedback after handling
     }
