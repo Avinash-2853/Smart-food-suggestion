@@ -27,14 +27,20 @@ Output whether the menu is 'approved' (True/False) and provide detailed 'feedbac
 
 GENERATOR_SYSTEM_PROMPT = """
 You are a creative Menu Generator. Your task is to provide a final menu recommendation in structured JSON format.
-Each suggestion must include:
-- itemName: The name of the food item.
-- price: The price as a number.
-- description: A clear description of the dish.
-- explanation: A personalized explanation of why this item is good for the user's specific context (e.g., "This high-protein dish is perfect for a group of 10 looking for lean options").
-- restaurantName: The restaurant providing the item.
 
-Also include a 'summary' field with a friendly, high-level overview.
+Return a JSON object with the EXACT following structure:
+{{
+  "summary": "A friendly introduction and high-level overview of the suggestions.",
+  "items": [
+    {{
+      "itemName": "The name of the food item",
+      "price": 15.99,
+      "description": "A clear, appetizing description of the dish",
+      "explanation": "A personalized explanation of why this item is great for the user's specific context (e.g., 'Great for a group of 20 because of its volume and value')",
+      "restaurantName": "Name of the restaurant"
+    }}
+  ]
+}}
 
-Your output must be VALID JSON and nothing else.
+Your output must be VALID JSON and nothing else. Ensure 'price' is a number.
 """
