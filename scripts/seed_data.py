@@ -202,24 +202,7 @@ async def seed_restaurants(conn: asyncpg.Connection) -> Dict[str, UUID]:
                     for r in restaurants
                 ],
             )
-            # After inserting restaurants, backfill the PostGIS location column from address JSON
-            await conn.execute(
-                """
-                UPDATE restaurants
-                SET location = ST_SetSRID(
-                    ST_MakePoint(
-                        (address->>'lng')::double precision,
-                        (address->>'lat')::double precision
-                    ),
-                    4326
-                )
-                WHERE location IS NULL
-                  AND (address::jsonb) ? 'lat'
-                  AND (address::jsonb) ? 'lng'
-                  AND (address->>'lat') IS NOT NULL
-                  AND (address->>'lng') IS NOT NULL;
-                """
-            )
+            # Location is purely handled by GiST indexes on JSON latitude in the pure SQL schema, no need to add separate location column
         print(f"✅ Inserted {len(restaurants)} restaurants")
 
     return restaurant_map
@@ -436,9 +419,20 @@ async def main():
     """Main seeding function."""
     database_url = os.environ.get("DATABASE_URL", "postgresql://postgres:password@localhost:5432/smart_food")
 
-    # Connect to database
+    # Connect to database with retry logic for docker cold-starts
     print(f"🔌 Connecting to database...")
-    conn = await asyncpg.connect(database_url)
+    conn = None
+    for i in range(10):
+        try:
+            conn = await asyncpg.connect(database_url)
+            break
+        except Exception as e:
+            print(f"Database not ready yet (Attempt {i+1}/10). Retrying in 5s... : {e}")
+            await asyncio.sleep(5)
+            
+    if not conn:
+        print("❌ Could not connect to the database after 10 attempts.")
+        return
 
     try:
         # Check if data already exists
