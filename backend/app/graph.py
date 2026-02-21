@@ -1,7 +1,6 @@
 from langgraph.graph import StateGraph, START, END
 from app.state import AgentState
 from app.nodes.profiler import user_profiler_node
-from app.nodes.search import search_rag_node
 from app.nodes.critic import qa_critic_node
 from app.nodes.generator import menu_generator_node
 

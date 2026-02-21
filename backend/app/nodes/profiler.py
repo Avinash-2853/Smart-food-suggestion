@@ -41,7 +41,7 @@ async def user_profiler_node(state: AgentState):
     if response.tool_calls:
         for tool_call in response.tool_calls:
             if tool_call["name"] == "search_food_items":
-                tool_result = search_food_items.invoke(tool_call["args"])
+                tool_result = await search_food_items.ainvoke(tool_call["args"])
                 # Add tool response to messages
                 messages.append({
                     "role": "tool",
