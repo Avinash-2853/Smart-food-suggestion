@@ -1,3 +1,5 @@
+fastapi
+uvicorn
 langgraph
 langchain-google-genai
 langchain-core>=0.3.0
@@ -8,4 +10,4 @@ qdrant-client==1.7.1
 sentence-transformers
 python-dotenv
 tiktoken
-protobuf<5.28.0
+protobuf==5.28.3
