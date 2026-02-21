@@ -1,7 +1,11 @@
-asyncpg==0.29.0
-pandas
-qdrant-client==1.7.3
-sentence-transformers
 langgraph
+langchain-google-genai
+langchain-openai
+langchain-core
 pydantic
+asyncpg
+pandas
+qdrant-client
+sentence-transformers
 python-dotenv
+tiktoken
