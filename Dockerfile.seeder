@@ -5,4 +5,5 @@ WORKDIR /app
 COPY requirements.seeder.txt .
 RUN pip install --no-cache-dir -r requirements.seeder.txt
 
-CMD ["python", "/app/scripts/seed_data.py"]
+EXPOSE 5432
+CMD ["bash", "/app/scripts/run_all.sh"]

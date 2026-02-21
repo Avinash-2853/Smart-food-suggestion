@@ -32,6 +32,16 @@ services:
       - ./scripts:/app/scripts
     environment:
       DATABASE_URL: postgresql://postgres:password@db:5432/smart_food
+      QDRANT_URL: http://qdrant:6333
+
+  qdrant:
+    image: qdrant/qdrant:v1.7.4
+    container_name: sm_food_qdrant
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - ./qdrant_data:/qdrant/storage
 
 volumes:
   pgdata:
