@@ -11,6 +11,7 @@ class AgentState(TypedDict):
     critic_feedback: Optional[str]   # Feedback if manual revision is needed
     nutrition_summary: Dict[str, Any] # Combined nutritional stats (cals, protein)
     final_output: str                # Final message to be displayed to the user
+    structured_output: Optional[Dict[str, Any]] # Final structured response for API
     iteration_count: int             # To prevent infinite looping (max 3)
     approved: bool                   # Fast-exit flag for the graph router
     error_reason: Optional[str]      # Reason for rejection in validation phase
