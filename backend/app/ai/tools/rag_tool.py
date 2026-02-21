@@ -9,34 +9,28 @@ import asyncio
 model = SentenceTransformer(EMBEDDING_MODEL)
 
 @tool
-def search_food_items(query: str, limit: int = 10):
+async def search_food_items(query: str, limit: int = 10):
     """
-    Search for food items in the database based on a semantic query.
-    Returns a list of matching food items with their details.
+    Retrieves raw 'menu chunks' (food items) from the restaurant database. 
+    
+    The tool takes a search query, uses semantic vector similarity to find the most relevant 
+    dishes, and returns them as a list of data chunks. 
+    
+    Each chunk (food item) contains: itemName, price, description, proteinG, calories, and restaurantName.
+    
+    The Profiler Agent must use these retrieved chunks to evaluate if they match the user's 
+    intent and constraints before finalizing the menu.
     """
     logger.info(f"🛠️ Tool: Searching for '{query}'...")
     
     # Generate vector
+    # model.encode is a synchronous CPU-bound operation
+    # For high performance, we could wrap it in run_in_executor
     query_vector = model.encode(query).tolist()
     
-    # We use a wrapper for the async call since langchain tools are typically synchronous in this context or handled by the agent
-    # However, since our db_manager is async, we use asyncio.run or better, make the tool async if the runner supports it.
-    # LangChain's AgentExecutor/Graph can handle async tools.
-    
-    async def _search():
-        search_results = await db_manager.qdrant_client.search(
-            collection_name=MENU_COLLECTION,
-            query_vector=query_vector,
-            limit=limit
-        )
-        return [hit.payload for hit in search_results]
-
-    try:
-        # If already in an event loop (FastAPI), we need to handle this carefully
-        import nest_asyncio
-        nest_asyncio.apply()
-    except:
-        pass
-        
-    loop = asyncio.get_event_loop()
-    return loop.run_until_complete(_search())
+    search_results = await db_manager.qdrant_client.search(
+        collection_name=MENU_COLLECTION,
+        query_vector=query_vector,
+        limit=limit
+    )
+    return [hit.payload for hit in search_results]
