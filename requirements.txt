@@ -8,3 +8,4 @@ qdrant-client==1.7.1
 sentence-transformers
 python-dotenv
 tiktoken
+protobuf<5.28.0
