@@ -8,7 +8,7 @@ QDRANT_URL = os.environ.get("QDRANT_URL", "http://localhost:6333")
 MENU_COLLECTION = "smart_food_menu"
 
 # AI Model Configuration
-GEMINI_MODEL = "gemini-1.5-flash"
+GEMINI_MODEL = "gemini-flash-latest"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 
 # Search Defaults

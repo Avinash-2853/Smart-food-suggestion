@@ -1,6 +1,9 @@
 import os
+from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
 from app.core.constants import GEMINI_MODEL
+
+load_dotenv()
 
 class GeminiClient:
     def __init__(self, model_name: str = GEMINI_MODEL):

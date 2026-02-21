@@ -19,15 +19,14 @@ async def search_rag_node(state: AgentState):
     query_vector = model.encode(query_text).tolist()
     
     # 2. Vector Search with Qdrant (using basic metadata filters if present)
-    # Note: For production, we'd add complex filters here
-    search_results = await db_manager.qdrant_client.search(
+    search_results = await db_manager.qdrant_client.query_points(
         collection_name=MENU_COLLECTION,
-        query_vector=query_vector,
+        query=query_vector,
         limit=10
     )
     
     suggestions = []
-    for hit in search_results:
+    for hit in search_results.points:
         suggestions.append(hit.payload)
     
     logger.info(f"✅ Found {len(suggestions)} semantic matches.")
