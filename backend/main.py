@@ -1,40 +1,35 @@
-import asyncio
-from dotenv import load_dotenv
-from app.graph import food_graph
-from app.database import db_manager
+import uvicorn
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+from app.apis.food.routes import router as food_router
 from app.core.logger import logger
+from dotenv import load_dotenv
 
+# Load environment variables
 load_dotenv()
 
-async def main():
-    # 1. Initialize DB connections
-    logger.info("🚀 Starting Smart Food Suggestion System...")
-    await db_manager.connect()
-    
-    # 2. Define Initial State
-    query = "I need high-protein vegan meals for 2 people with a budget of $50."
-    initial_state = {
-        "user_query": query,
-        "iteration_count": 0,
-        "approved": False
-    }
-    
-    # 3. Execute the Graph
-    print(f"\n--- 📝 User Query: {query} ---\n")
-    
-    async for output in food_graph.astream(initial_state):
-        for key, value in output.items():
-            print(f"\n[Node: {key}]")
-            # print(f"Value: {value}") # Too verbose for full state
-            
-    # 4. Final Output
-    final_state = await food_graph.ainvoke(initial_state)
-    print("\n--- 🥗 Final Menu Recommendation ---\n")
-    print(final_state["final_output"])
-    
-    # 5. Cleanup
-    await db_manager.disconnect()
-    logger.info("💤 System shut down.")
+app = FastAPI(
+    title="Smart Food Suggestion API",
+    description="Multi-agent RAG system for personalized food recommendations",
+    version="1.0.0"
+)
+
+# Configure CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"], # For development, restricted in production
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Include Routers
+app.include_router(food_router, prefix="/api/v1/food", tags=["Food Suggestions"])
+
+@app.get("/")
+async def health_check():
+    return {"status": "healthy", "service": "Smart Food Suggestion API"}
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    logger.info("🚀 Starting FastAPI Server...")
+    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
