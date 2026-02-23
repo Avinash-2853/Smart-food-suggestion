@@ -12,7 +12,7 @@ services:
       - "5433:5432"
     volumes:
       - pgdata:/var/lib/postgresql/data
-      - ./scripts/init_schema.sql:/docker-entrypoint-initdb.d/init_schema.sql
+      - ./backend/scripts/init_schema.sql:/docker-entrypoint-initdb.d/init_schema.sql
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U postgres -d smart_food"]
       interval: 5s
@@ -21,15 +21,15 @@ services:
 
   seeder:
     build:
-      context: .
+      context: ./backend
       dockerfile: Dockerfile.seeder
     container_name: sm_food_seeder
     depends_on:
       db:
         condition: service_healthy
     volumes:
-      - ./data:/app/seed-data
-      - ./scripts:/app/scripts
+      - ./backend/data:/app/seed-data
+      - ./backend/scripts:/app/scripts
     environment:
       DATABASE_URL: postgresql://postgres:password@db:5432/smart_food
       QDRANT_URL: http://qdrant:6333
